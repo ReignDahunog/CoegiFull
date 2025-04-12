@@ -26,15 +26,18 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "Extracting script serialization layouts",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/6000.0.25f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/6000.0.25f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\ScriptAssemblies\\Unity.InputSystem.dll\" -a=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\ScriptAssemblies\\Unity.InputSystem.ForUI.dll\" -a=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\ScriptAssemblies\\Unity.InputSystem.TestFramework.dll\" -a=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\ScriptAssemblies\\Unity.Multiplayer.Center.Common.dll\" -a=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\PackageCache\\com.unity.ext.nunit\\net40\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\PackageCache\\com.unity.testtools.codecoverage\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\PackageCache\\com.unity.visualscripting\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.25f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.25f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.25f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.25f1\\Editor\\Data\\NetStandard\\EditorExtensions\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.25f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.25f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\ScriptAssemblies\" -s=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\PackageCache\\com.unity.ext.nunit\\net40\\unity-custom\" -s=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\PackageCache\\com.unity.testtools.codecoverage\\lib\\ReportGenerator\" -s=\"C:\\Users\\reign\\UnityHub\\CoegiTorque_New_Update\\CoegiTorque\\Library\\PackageCache\\com.unity.visualscripting\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/6000.0.25f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/6000.0.25f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\ScriptAssemblies\\Unity.Cinemachine.dll\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\ScriptAssemblies\\Unity.InputSystem.dll\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\ScriptAssemblies\\Unity.InputSystem.ForUI.dll\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\ScriptAssemblies\\Unity.InputSystem.TestFramework.dll\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\ScriptAssemblies\\Unity.Mathematics.dll\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\ScriptAssemblies\\Unity.Multiplayer.Center.Common.dll\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\ScriptAssemblies\\Unity.Splines.dll\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\PackageCache\\com.unity.ext.nunit\\net40\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\PackageCache\\com.unity.testtools.codecoverage\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\PackageCache\\com.unity.visualscripting\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.25f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.25f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.25f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.25f1\\Editor\\Data\\NetStandard\\EditorExtensions\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.25f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.25f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\ScriptAssemblies\" -s=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\PackageCache\\com.unity.ext.nunit\\net40\\unity-custom\" -s=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\PackageCache\\com.unity.testtools.codecoverage\\lib\\ReportGenerator\" -s=\"C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Library\\PackageCache\\com.unity.visualscripting\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/6000.0.25f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/6000.0.25f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
         "Library/ScriptAssemblies/Assembly-CSharp.dll",
+        "Library/ScriptAssemblies/Unity.Cinemachine.dll",
         "Library/ScriptAssemblies/Unity.InputSystem.dll",
         "Library/ScriptAssemblies/Unity.InputSystem.ForUI.dll",
         "Library/ScriptAssemblies/Unity.InputSystem.TestFramework.dll",
+        "Library/ScriptAssemblies/Unity.Mathematics.dll",
         "Library/ScriptAssemblies/Unity.Multiplayer.Center.Common.dll",
+        "Library/ScriptAssemblies/Unity.Splines.dll",
         "Library/ScriptAssemblies/Unity.TextMeshPro.dll",
         "Library/ScriptAssemblies/Unity.Timeline.dll",
         "Library/ScriptAssemblies/Unity.VisualScripting.Core.dll",
@@ -47,6 +50,9 @@
         "Library/PackageCache/com.unity.visualscripting/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
       ],
       "InputFlags": [
+        0,
+        0,
+        0,
         0,
         0,
         0,
@@ -222,6 +228,9 @@
       "File": "Library/ScriptAssemblies/Assembly-CSharp.dll"
     },
     {
+      "File": "Library/ScriptAssemblies/Unity.Cinemachine.dll"
+    },
+    {
       "File": "Library/ScriptAssemblies/Unity.InputSystem.dll"
     },
     {
@@ -231,7 +240,13 @@
       "File": "Library/ScriptAssemblies/Unity.InputSystem.TestFramework.dll"
     },
     {
+      "File": "Library/ScriptAssemblies/Unity.Mathematics.dll"
+    },
+    {
       "File": "Library/ScriptAssemblies/Unity.Multiplayer.Center.Common.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.Splines.dll"
     },
     {
       "File": "Library/ScriptAssemblies/Unity.TextMeshPro.dll"
@@ -288,6 +303,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aESkipCompile.dag.json",
-  "PayloadsFile": "C:/Users/reign/UnityHub/CoegiTorque_New_Update/CoegiTorque/Library/Bee/1900b0aESkipCompile.dag.payloads",
+  "PayloadsFile": "C:/Users/reign/Desktop/Git/CoegiFull/Library/Bee/1900b0aESkipCompile.dag.payloads",
   "RelativePathToRoot": "../.."
 }

@@ -6,14 +6,32 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/GameScene/1.unity
-    guid: d7368edc883cd3f4c847e05c19b39ba2
+    path: Assets/GameScene/Start.unity
+    guid: 3abcc2d39fc751b4a831937e8d08b385
   - enabled: 1
-    path: Assets/GameScene/2.unity
-    guid: d4f6a5285becdfa4d948c2f865c9c96f
+    path: Assets/GameScene/Loading.unity
+    guid: 4130235582e2f764fbe9b856fc94e46b
   - enabled: 1
-    path: Assets/GameScene/GamePlay.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/GameScene/Tmain.unity
+    guid: 7c83271b79af08746a484fc3d056a1c3
+  - enabled: 1
+    path: Assets/GameScene/Tutorial.unity
+    guid: 167ea438348e84b4e9530b7ae0520406
+  - enabled: 1
+    path: Assets/GameScene/Advance.unity
+    guid: b5c33abfd465a1345b687b5d8e24459e
+  - enabled: 1
+    path: Assets/GameScene/Easy.unity
+    guid: 41b68a9fb3e42c84580d39a6136bbcec
+  - enabled: 1
+    path: Assets/GameScene/EasyGameplay.unity
+    guid: 9f8c30dfe904805459dd116b5aaa6b71
+  - enabled: 1
+    path: Assets/GameScene/Intermidiate.unity
+    guid: 7f826fc784f4e4e4a99ce78f9716f8d8
+  - enabled: 1
+    path: Assets/GameScene/Main.unity
+    guid: d93b8eabf319d0c4e815ba623a6a56f1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
   m_UseUCBPForAssetBundles: 0

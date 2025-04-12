@@ -6,17 +6,17 @@ public class ModeSelection : MonoBehaviour
 {
     public void EasyMode()
     {
-        SceneManager.LoadSceneAsync(3);
+        SceneManager.LoadSceneAsync("Easy");
     }
 
     public void IntermidiateMode()
     {
-        SceneManager.LoadSceneAsync(4);
+        SceneManager.LoadSceneAsync("Intermidiate");
     }
 
     public void AdvanceMode()
     {
-        SceneManager.LoadSceneAsync(5);
+        SceneManager.LoadSceneAsync("Advance");
     }
 }
 
