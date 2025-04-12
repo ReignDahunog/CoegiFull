@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UnityProj\\RoadReality Beta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC10B76-8948-A776-BFF1-11CB5D13D9CC}|Assembly-CSharp.csproj|e:\\unityproj\\roadreality beta\\assets\\camerapan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC10B76-8948-A776-BFF1-11CB5D13D9CC}|Assembly-CSharp.csproj|solutionrelative:assets\\camerapan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC10B76-8948-A776-BFF1-11CB5D13D9CC}|Assembly-CSharp.csproj|e:\\unityproj\\roadreality beta\\assets\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC10B76-8948-A776-BFF1-11CB5D13D9CC}|Assembly-CSharp.csproj|solutionrelative:assets\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC10B76-8948-A776-BFF1-11CB5D13D9CC}|Assembly-CSharp.csproj|e:\\unityproj\\roadreality beta\\assets\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC10B76-8948-A776-BFF1-11CB5D13D9CC}|Assembly-CSharp.csproj|solutionrelative:assets\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC10B76-8948-A776-BFF1-11CB5D13D9CC}|Assembly-CSharp.csproj|e:\\unityproj\\roadreality beta\\assets\\carspeedometer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC10B76-8948-A776-BFF1-11CB5D13D9CC}|Assembly-CSharp.csproj|solutionrelative:assets\\carspeedometer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC10B76-8948-A776-BFF1-11CB5D13D9CC}|Assembly-CSharp.csproj|E:\\UnityProj\\RoadReality Beta\\assets\\caraudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC10B76-8948-A776-BFF1-11CB5D13D9CC}|Assembly-CSharp.csproj|solutionrelative:assets\\caraudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\UnityProj\\RoadReality Beta\\Assets\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\UIManager.cs",
+              "ToolTip": "E:\\UnityProj\\RoadReality Beta\\Assets\\UIManager.cs",
+              "RelativeToolTip": "Assets\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:34:56.657Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraPan.cs",
+              "DocumentMoniker": "E:\\UnityProj\\RoadReality Beta\\Assets\\CameraPan.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraPan.cs",
+              "ToolTip": "E:\\UnityProj\\RoadReality Beta\\Assets\\CameraPan.cs",
+              "RelativeToolTip": "Assets\\CameraPan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:26:03.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewMonoBehaviourScript.cs",
+              "DocumentMoniker": "E:\\UnityProj\\RoadReality Beta\\Assets\\NewMonoBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\NewMonoBehaviourScript.cs",
+              "ToolTip": "E:\\UnityProj\\RoadReality Beta\\Assets\\NewMonoBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\NewMonoBehaviourScript.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:59:12.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarSpeedometer.cs",
+              "DocumentMoniker": "E:\\UnityProj\\RoadReality Beta\\Assets\\CarSpeedometer.cs",
+              "RelativeDocumentMoniker": "Assets\\CarSpeedometer.cs",
+              "ToolTip": "E:\\UnityProj\\RoadReality Beta\\Assets\\CarSpeedometer.cs",
+              "RelativeToolTip": "Assets\\CarSpeedometer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:16:48.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarAudio.cs",
+              "DocumentMoniker": "E:\\UnityProj\\RoadReality Beta\\Assets\\CarAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\CarAudio.cs",
+              "ToolTip": "E:\\UnityProj\\RoadReality Beta\\Assets\\CarAudio.cs",
+              "RelativeToolTip": "Assets\\CarAudio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:19:57.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
