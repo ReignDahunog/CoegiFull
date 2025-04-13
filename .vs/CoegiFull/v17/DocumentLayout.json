@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\",
+  "WorkspaceRootPath": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|c:\\users\\reign\\desktop\\git\\coegifull\\assets\\scripts\\mode selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|e:\\unityproj\\coegi torque - apr 13\\coegifull\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|e:\\unityproj\\coegi torque - apr 13\\coegifull\\assets\\scripts\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\assets\\scripts\\mode selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mode selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,15 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TutorialManager.cs",
+              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\Assets\\Scripts\\TutorialManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TutorialManager.cs",
+              "ToolTip": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\Assets\\Scripts\\TutorialManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TutorialManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:11:37.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FinishLine.cs",
+              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\Assets\\Scripts\\FinishLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLine.cs",
+              "ToolTip": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\Assets\\Scripts\\FinishLine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:06:38.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Mode Selection.cs",
-              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\Mode Selection.cs",
+              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\Assets\\Scripts\\Mode Selection.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Mode Selection.cs",
-              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\Mode Selection.cs",
+              "ToolTip": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\Assets\\Scripts\\Mode Selection.cs",
               "RelativeToolTip": "Assets\\Scripts\\Mode Selection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

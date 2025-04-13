@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|e:\\unityproj\\coegi torque - apr 13\\coegifull\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\assets\\scripts\\mode selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mode selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinishLine.cs",
+              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\Assets\\Scripts\\FinishLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLine.cs",
+              "ToolTip": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\Assets\\Scripts\\FinishLine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:06:38.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mode Selection.cs",
+              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\Assets\\Scripts\\Mode Selection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mode Selection.cs",
+              "ToolTip": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\Assets\\Scripts\\Mode Selection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mode Selection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:04:59.815Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
