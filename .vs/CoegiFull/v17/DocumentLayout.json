@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\",
+  "WorkspaceRootPath": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|e:\\unityproj\\coegi torque - apr 13\\coegifull\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|c:\\users\\reign\\desktop\\git\\coegifull\\assets\\scripts\\mainmenucc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenucc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|c:\\users\\reign\\desktop\\git\\coegifull\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|e:\\unityproj\\coegi torque - apr 13\\coegifull\\assets\\scripts\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\assets\\scripts\\mode selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\mode selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mode selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,43 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "MainMenuCC.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\MainMenuCC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuCC.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\MainMenuCC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuCC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:16:59.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TutorialManager.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\Assets\\Scripts\\TutorialManager.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\TutorialManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TutorialManager.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\Assets\\Scripts\\TutorialManager.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\TutorialManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\TutorialManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T09:11:37.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FinishLine.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\Assets\\Scripts\\FinishLine.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\FinishLine.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLine.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\Assets\\Scripts\\FinishLine.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\FinishLine.cs",
               "RelativeToolTip": "Assets\\Scripts\\FinishLine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T09:06:38.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Mode Selection.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\Assets\\Scripts\\Mode Selection.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\Mode Selection.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Mode Selection.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - Apr 13\\CoegiFull\\Assets\\Scripts\\Mode Selection.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\Mode Selection.cs",
               "RelativeToolTip": "Assets\\Scripts\\Mode Selection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T07:04:59.815Z",
               "EditorCaption": ""

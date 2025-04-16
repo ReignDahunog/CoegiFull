@@ -18,14 +18,17 @@ EditorBuildSettings:
     path: Assets/GameScene/Tutorial.unity
     guid: 167ea438348e84b4e9530b7ae0520406
   - enabled: 1
+    path: Assets/GameScene/EasyGameplay.unity
+    guid: 9f8c30dfe904805459dd116b5aaa6b71
+  - enabled: 1
+    path: Assets/GameScene/CourseComplete.unity
+    guid: 7a6857eda4849f24c8405e082b6d0bfa
+  - enabled: 1
     path: Assets/GameScene/Advance.unity
     guid: b5c33abfd465a1345b687b5d8e24459e
   - enabled: 1
     path: Assets/GameScene/Easy.unity
     guid: 41b68a9fb3e42c84580d39a6136bbcec
-  - enabled: 1
-    path: Assets/GameScene/EasyGameplay.unity
-    guid: 9f8c30dfe904805459dd116b5aaa6b71
   - enabled: 1
     path: Assets/GameScene/Intermidiate.unity
     guid: 7f826fc784f4e4e4a99ce78f9716f8d8
