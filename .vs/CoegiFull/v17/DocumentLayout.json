@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|c:\\users\\reign\\desktop\\git\\coegifull\\assets\\scripts\\backtostart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backtostart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|c:\\users\\reign\\desktop\\git\\coegifull\\assets\\scripts\\mainmenucc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenucc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|c:\\users\\reign\\desktop\\git\\coegifull\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BacktoStart.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\BacktoStart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BacktoStart.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\BacktoStart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BacktoStart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:54:58.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainMenuCC.cs",
               "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\MainMenuCC.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuCC.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TutorialManager.cs",
               "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\TutorialManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TutorialManager.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Assets\\Scripts\\TutorialManager.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T09:11:37.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T09:11:37.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FinishLine.cs",
               "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\FinishLine.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLine.cs",
@@ -64,12 +80,11 @@
               "RelativeToolTip": "Assets\\Scripts\\FinishLine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T09:06:38.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T09:06:38.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Mode Selection.cs",
               "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\Mode Selection.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Mode Selection.cs",
@@ -77,8 +92,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Mode Selection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T07:04:59.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T07:04:59.815Z"
             }
           ]
         }

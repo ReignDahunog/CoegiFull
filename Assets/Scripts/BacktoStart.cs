@@ -5,6 +5,6 @@ public class BacktoStart : MonoBehaviour
 {
     public void Back_to()
     {
-        SceneManager.LoadScene(8);
+        SceneManager.LoadScene("Main");
     }
 }

@@ -53,6 +53,13 @@
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
+            "fullManagedTypeName": "DrivingTutorial",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
             "fullManagedTypeName": "EasyGameplay",
             "moduleName": "",
             "usedInScenes": []
@@ -64,6 +71,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -75,12 +83,20 @@
             ]
         },
         {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "FinishLine",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
             "managedAssemblyName": "",
             "nativeClass": "GameManager",
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -105,6 +121,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -132,6 +149,13 @@
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
+            "fullManagedTypeName": "MainMenuCC",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
             "fullManagedTypeName": "ModeSelection",
             "moduleName": "",
             "usedInScenes": []
@@ -150,6 +174,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -174,6 +199,7 @@
             "moduleName": "AI",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -331,6 +357,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -382,6 +409,7 @@
             "fullManagedTypeName": "UnityEngine.Audio.AudioResource",
             "moduleName": "Audio",
             "usedInScenes": [
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Main.unity",
                 "Assets/GameScene/Tmain.unity"
@@ -393,6 +421,7 @@
             "fullManagedTypeName": "UnityEngine.Audio.AudioResource",
             "moduleName": "Audio",
             "usedInScenes": [
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Main.unity",
                 "Assets/GameScene/Tmain.unity"
@@ -405,6 +434,7 @@
             "moduleName": "Audio",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -421,6 +451,7 @@
             "fullManagedTypeName": "UnityEngine.AudioClip",
             "moduleName": "Audio",
             "usedInScenes": [
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Main.unity",
                 "Assets/GameScene/Tmain.unity"
@@ -433,6 +464,7 @@
             "moduleName": "Audio",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -449,6 +481,7 @@
             "fullManagedTypeName": "UnityEngine.AudioSource",
             "moduleName": "Audio",
             "usedInScenes": [
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Main.unity",
                 "Assets/GameScene/Tmain.unity"
@@ -461,6 +494,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -487,6 +521,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -504,6 +539,7 @@
             "moduleName": "UI",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -521,6 +557,7 @@
             "moduleName": "UI",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -547,6 +584,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -564,6 +602,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -600,6 +639,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -659,6 +699,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -676,6 +717,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -693,6 +735,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -746,6 +789,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -763,6 +807,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -787,6 +832,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -820,6 +866,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -846,6 +893,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -863,6 +911,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -880,6 +929,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -897,6 +947,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -914,6 +965,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
@@ -931,6 +983,7 @@
             "moduleName": "Core",
             "usedInScenes": [
                 "Assets/GameScene/Advance.unity",
+                "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/Easy.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Intermidiate.unity",
