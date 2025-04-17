@@ -14,10 +14,12 @@
 		<type fullname="ModeSelection" preserve="nothing"/>
 		<type fullname="nextSceneforStarting" preserve="nothing"/>
 		<type fullname="QuitGame" preserve="nothing"/>
+		<type fullname="ReplayManager" preserve="nothing"/>
 		<type fullname="SceneLoader" preserve="nothing"/>
 		<type fullname="Speedometer" preserve="nothing"/>
 		<type fullname="TutorialScene" preserve="nothing"/>
 		<type fullname="UIController" preserve="nothing"/>
+		<type fullname="UIReplay" preserve="nothing"/>
 		<type fullname="ViosController" preserve="nothing"/>
 		<type fullname="ViosInputManager" preserve="nothing"/>
 	</assembly>

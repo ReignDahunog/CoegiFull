@@ -35,6 +35,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GameScene/Main.unity
     guid: d93b8eabf319d0c4e815ba623a6a56f1
+  - enabled: 1
+    path: Assets/GameScene/ReplayScene.unity
+    guid: 64d3e19c240b97c47bc698bf95bc4b75
+  - enabled: 1
+    path: Assets/GameScene/not that important scene/EasyGameplay2.unity
+    guid: a8de99de57de26c4d99c003893be982d
+  - enabled: 1
+    path: Assets/GameScene/not that important scene/EasyReplay.unity
+    guid: 6783177d8a0dd50419c6de2e49c4c18a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
   m_UseUCBPForAssetBundles: 0

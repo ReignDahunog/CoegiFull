@@ -22,6 +22,9 @@
 			<method name="ToTutorial"/>
 			<method name="ToTutorial"/>
 		</type>
+		<type fullname="UIReplay">
+			<method name="GoToReplay"/>
+		</type>
 	</assembly>
 	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
 		<type fullname="UnityEngine.GameObject">
