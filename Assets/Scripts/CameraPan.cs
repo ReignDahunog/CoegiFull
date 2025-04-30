@@ -22,7 +22,7 @@ public class CameraPan : MonoBehaviour
             case 1:
                 transform.position = focusKotse.transform.position + focusKotse.transform.TransformDirection(new Vector3(l, h2, d2));
                 transform.rotation = focusKotse.transform.rotation;
-                Camera.main.fieldOfView = 62f;
+                Camera.main.fieldOfView = 52f;
                 break;
             default:
                 transform.localPosition = focusKotse.transform.position + focusKotse.transform.TransformDirection(new Vector3(0f, height, -distance));
