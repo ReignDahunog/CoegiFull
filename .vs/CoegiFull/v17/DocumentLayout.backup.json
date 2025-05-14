@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|e:\\unityproj\\coegi torque - apr 30\\coegifull\\assets\\scripts\\finalscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finalscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|e:\\unityproj\\coegi torque - apr 30\\coegifull\\assets\\scripts\\camerapan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerapan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -74,7 +78,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UIReplay.cs",
               "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\Assets\\Scripts\\UIReplay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIReplay.cs",
@@ -88,6 +92,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FinalScore.cs",
+              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\Assets\\Scripts\\FinalScore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinalScore.cs",
+              "ToolTip": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\Assets\\Scripts\\FinalScore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinalScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:15:51.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CameraPan.cs",
               "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\Assets\\Scripts\\CameraPan.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraPan.cs",
@@ -100,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerTrigger.cs",
               "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\Assets\\Scripts\\PlayerTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerTrigger.cs",
@@ -108,11 +125,12 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerTrigger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T15:52:33.303Z"
+              "WhenOpened": "2025-04-30T15:52:33.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ScoreManager.cs",
               "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\Assets\\Scripts\\ScoreManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
@@ -120,11 +138,12 @@
               "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T15:41:26.516Z"
+              "WhenOpened": "2025-04-30T15:41:26.516Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ReplayManager2.cs",
               "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\Assets\\Scripts\\ReplayManager2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ReplayManager2.cs",
@@ -136,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ReplayStorage.cs",
               "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\Assets\\Scripts\\ReplayStorage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ReplayStorage.cs",
@@ -148,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ActionReplayRecord.cs",
               "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\Assets\\Scripts\\ActionReplayRecord.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ActionReplayRecord.cs",
@@ -160,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ReplayManager.cs",
               "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\Assets\\Scripts\\ReplayManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ReplayManager.cs",
@@ -172,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ActionReplayData.cs",
               "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\Assets\\Scripts\\ActionReplayData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ActionReplayData.cs",
@@ -184,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ReplayDataStorage.cs",
               "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\Assets\\Scripts\\ReplayDataStorage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ReplayDataStorage.cs",
@@ -196,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "BacktoStart.cs",
               "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\Assets\\Scripts\\BacktoStart.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BacktoStart.cs",
@@ -208,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MainMenuCC.cs",
               "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\Assets\\Scripts\\MainMenuCC.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuCC.cs",
@@ -220,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TutorialManager.cs",
               "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\Assets\\Scripts\\TutorialManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TutorialManager.cs",
@@ -232,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "FinishLine.cs",
               "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\Assets\\Scripts\\FinishLine.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLine.cs",
@@ -244,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Mode Selection.cs",
               "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - Apr 30\\CoegiFull\\Assets\\Scripts\\Mode Selection.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Mode Selection.cs",
