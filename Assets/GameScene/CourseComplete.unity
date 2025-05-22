@@ -3259,9 +3259,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1912737140}
-        m_TargetAssemblyTypeName: UIReplay, Assembly-CSharp
-        m_MethodName: GoToReplay
+      - m_Target: {fileID: 1912737142}
+        m_TargetAssemblyTypeName: ReplayButtonHandler, Assembly-CSharp
+        m_MethodName: LoadReplayScene
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5287,6 +5287,7 @@ GameObject:
   - component: {fileID: 1912737138}
   - component: {fileID: 1912737140}
   - component: {fileID: 1912737141}
+  - component: {fileID: 1912737142}
   m_Layer: 5
   m_Name: Padding btn Image
   m_TagString: Untagged
@@ -5378,6 +5379,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 665ce35c64cafc043a680104dcedc8a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1912737142
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1912737136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36b2ab5522faea845a94a13b00b04a3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2022046261
 GameObject:
   m_ObjectHideFlags: 0
@@ -5393,7 +5406,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2022046262
 RectTransform:
   m_ObjectHideFlags: 0
