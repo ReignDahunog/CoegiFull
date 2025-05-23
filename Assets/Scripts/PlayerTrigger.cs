@@ -1,11 +1,11 @@
 using UnityEngine;
 
-public class PlayerCollisionHandler : MonoBehaviour
+public class PlayerTrigger : MonoBehaviour
 {
     public ScoreManager scoreManager;
 
     void OnCollisionEnter(Collision collision)
     {
-        scoreManager.ReduceScore(1000);
+        scoreManager.ReduceDrivingScore(1000);
     }
 }
