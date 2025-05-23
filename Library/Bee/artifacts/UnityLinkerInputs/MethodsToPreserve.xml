@@ -2,6 +2,15 @@
 	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
 		<type fullname="BacktoStart">
 			<method name="Back_to"/>
+			<method name="Back_to"/>
+			<method name="Back_to"/>
+			<method name="Back_to"/>
+		</type>
+		<type fullname="CameraReplayer">
+			<method name="Backward"/>
+			<method name="Forward"/>
+			<method name="Pause"/>
+			<method name="Play"/>
 		</type>
 		<type fullname="MainMenuCC">
 			<method name="MainMenu"/>
@@ -18,16 +27,43 @@
 			<method name="Quit"/>
 			<method name="Quit"/>
 		</type>
+		<type fullname="ReplayButtonHandler">
+			<method name="LoadReplayScene"/>
+		</type>
 		<type fullname="TutorialScene">
 			<method name="ToTutorial"/>
 			<method name="ToTutorial"/>
 		</type>
-		<type fullname="UIReplay">
-			<method name="GoToReplay"/>
-		</type>
 	</assembly>
 	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
 		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
 			<method name="SetActive"/>
 			<method name="SetActive"/>
 			<method name="SetActive"/>

@@ -3,19 +3,27 @@
 		<type fullname="AudioManager" preserve="nothing"/>
 		<type fullname="BacktoStart" preserve="nothing"/>
 		<type fullname="CameraPan" preserve="nothing"/>
+		<type fullname="CameraRecorder" preserve="nothing"/>
+		<type fullname="CameraReplayer" preserve="nothing"/>
 		<type fullname="CarAudio" preserve="nothing"/>
 		<type fullname="CarLoadingAnimation" preserve="nothing"/>
 		<type fullname="DrivingTutorial" preserve="nothing"/>
 		<type fullname="EasyGameplay" preserve="nothing"/>
+		<type fullname="FinalScoreDisplay" preserve="nothing"/>
 		<type fullname="FinishLine" preserve="nothing"/>
 		<type fullname="LightingManager" preserve="nothing"/>
 		<type fullname="LoadingGameplay" preserve="nothing"/>
 		<type fullname="MainMenuCC" preserve="nothing"/>
 		<type fullname="ModeSelection" preserve="nothing"/>
 		<type fullname="nextSceneforStarting" preserve="nothing"/>
+		<type fullname="PersistBetweenScenes" preserve="nothing"/>
+		<type fullname="PlayerCollisionHandler" preserve="nothing"/>
 		<type fullname="QuitGame" preserve="nothing"/>
+		<type fullname="ReplayButtonHandler" preserve="nothing"/>
 		<type fullname="ReplayManager" preserve="nothing"/>
+		<type fullname="ReplayManager2" preserve="nothing"/>
 		<type fullname="SceneLoader" preserve="nothing"/>
+		<type fullname="ScoreManager" preserve="nothing"/>
 		<type fullname="Speedometer" preserve="nothing"/>
 		<type fullname="TutorialScene" preserve="nothing"/>
 		<type fullname="UIController" preserve="nothing"/>

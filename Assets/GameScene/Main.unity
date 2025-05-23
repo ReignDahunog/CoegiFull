@@ -5987,8 +5987,9 @@ GameObject:
   m_Component:
   - component: {fileID: 768353771}
   - component: {fileID: 768353772}
+  - component: {fileID: 768353773}
   m_Layer: 5
-  m_Name: Music Slider
+  m_Name: Volume Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6066,7 +6067,32 @@ MonoBehaviour:
   m_Value: 1
   m_OnValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 768353773}
+        m_TargetAssemblyTypeName: SoundManager, Assembly-CSharp
+        m_MethodName: ChangeVolume
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &768353773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 768353770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dc2642a85b30324c839dc25d565be8f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  volumeSlider: {fileID: 768353772}
 --- !u!1 &826765709
 GameObject:
   m_ObjectHideFlags: 0
@@ -13352,7 +13378,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Version 1.0.7
+  m_text: Version 1.0.8
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ad4c6ef0f3aaa3846aac64bf5cfe6a0b, type: 2}
   m_sharedMaterial: {fileID: -3811240604231860027, guid: ad4c6ef0f3aaa3846aac64bf5cfe6a0b, type: 2}

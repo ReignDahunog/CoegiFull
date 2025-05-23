@@ -1,109 +1,111 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\",
+  "WorkspaceRootPath": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\camerareplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|c:\\users\\reign\\desktop\\git\\coegifull\\assets\\scripts\\musicslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|c:\\users\\reign\\desktop\\git\\coegifull\\assets\\scripts\\camerareplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerareplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|e:\\unityproj\\coegi torque - may 22\\coegifull\\assets\\scripts\\nextsceneforstarting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\nextsceneforstarting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nextsceneforstarting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|e:\\unityproj\\coegi torque - may 22\\coegifull\\assets\\scripts\\camerareplaysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\camerareplaysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerareplaysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\camerarecorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\camerarecorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerarecorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\cameradata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\cameradata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameradata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\replaybuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\replaybuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\replaybuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\savereplaybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\savereplaybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savereplaybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ReplayCameraManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ReplayCameraManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ReplayCameraManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\CameraRecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CameraRecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\CameraRecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\steeringwheel\\steering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\steeringwheel\\steering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\steeringwheel\\steering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\finalscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\finalscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finalscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\camerapan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\camerapan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerapan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\playertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\playertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\replaymanager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\replaymanager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\replaymanager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\actionreplayrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\actionreplayrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\actionreplayrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\replaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\replaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\replaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\uireplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\uireplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uireplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\replaystorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\replaystorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\replaystorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\actionreplaydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\actionreplaydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\actionreplaydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\replaydatastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\replaydatastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\replaydatastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\backtostart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\backtostart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backtostart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\mainmenucc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\mainmenucc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenucc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\assets\\scripts\\mode selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\assets\\scripts\\mode selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22847323-1094-603F-3AE0-1621F93B09EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mode selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -114,15 +116,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "UIReplay.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\UIReplay.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\UIReplay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIReplay.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\UIReplay.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\UIReplay.cs",
               "RelativeToolTip": "Assets\\Scripts\\UIReplay.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,101 +133,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "nextSceneforStarting.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\nextSceneforStarting.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\nextSceneforStarting.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\nextSceneforStarting.cs",
-              "RelativeToolTip": "Assets\\Scripts\\nextSceneforStarting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MusicSlider.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\MusicSlider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicSlider.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\MusicSlider.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\MusicSlider.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:35:35.895Z",
+              "WhenOpened": "2025-05-23T13:22:14.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "nextSceneforStarting.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\nextSceneforStarting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\nextSceneforStarting.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\nextSceneforStarting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\nextSceneforStarting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:35:35.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CameraReplaySystem.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\CameraReplaySystem.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\CameraReplaySystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraReplaySystem.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\CameraReplaySystem.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\CameraReplaySystem.cs",
               "RelativeToolTip": "Assets\\Scripts\\CameraReplaySystem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:11:38.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T13:11:38.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ReplayButtonHandler.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ReplayButtonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\ReplayButtonHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ReplayButtonHandler.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ReplayButtonHandler.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\ReplayButtonHandler.cs",
               "RelativeToolTip": "Assets\\Scripts\\ReplayButtonHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:56:58.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T12:56:58.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CameraReplayer.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\CameraReplayer.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\CameraReplayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraReplayer.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\CameraReplayer.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\CameraReplayer.cs",
               "RelativeToolTip": "Assets\\Scripts\\CameraReplayer.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAkwFgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T12:32:18.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CameraRecorder.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\CameraRecorder.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\CameraRecorder.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraRecorder.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\CameraRecorder.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\CameraRecorder.cs",
               "RelativeToolTip": "Assets\\Scripts\\CameraRecorder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:03:51.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T12:03:51.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CameraData.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\CameraData.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\CameraData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraData.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\CameraData.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\CameraData.cs",
               "RelativeToolTip": "Assets\\Scripts\\CameraData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:35:09.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T12:35:09.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ReplayCameraManager.cs",
               "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ReplayCameraManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ReplayCameraManager.cs",
               "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ReplayCameraManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ReplayCameraManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T12:09:50.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SaveReplayButton.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\SaveReplayButton.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\SaveReplayButton.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SaveReplayButton.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\SaveReplayButton.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\SaveReplayButton.cs",
               "RelativeToolTip": "Assets\\Scripts\\SaveReplayButton.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,22 +241,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CameraRecord.cs",
               "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\CameraRecord.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraRecord.cs",
               "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\CameraRecord.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CameraRecord.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T11:54:19.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Steering.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\SteeringWheel\\Steering.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\SteeringWheel\\Steering.cs",
               "RelativeDocumentMoniker": "Assets\\SteeringWheel\\Steering.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\SteeringWheel\\Steering.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\SteeringWheel\\Steering.cs",
               "RelativeToolTip": "Assets\\SteeringWheel\\Steering.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -256,11 +262,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "FinalScore.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\FinalScore.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\FinalScore.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FinalScore.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\FinalScore.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\FinalScore.cs",
               "RelativeToolTip": "Assets\\Scripts\\FinalScore.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -268,11 +274,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CameraPan.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\CameraPan.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\CameraPan.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraPan.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\CameraPan.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\CameraPan.cs",
               "RelativeToolTip": "Assets\\Scripts\\CameraPan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -280,11 +286,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PlayerTrigger.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\PlayerTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\PlayerTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerTrigger.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\PlayerTrigger.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\PlayerTrigger.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerTrigger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -292,11 +298,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ScoreManager.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\ScoreManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\ScoreManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -304,11 +310,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ReplayManager2.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ReplayManager2.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\ReplayManager2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ReplayManager2.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ReplayManager2.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\ReplayManager2.cs",
               "RelativeToolTip": "Assets\\Scripts\\ReplayManager2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -316,11 +322,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ReplayStorage.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ReplayStorage.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\ReplayStorage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ReplayStorage.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ReplayStorage.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\ReplayStorage.cs",
               "RelativeToolTip": "Assets\\Scripts\\ReplayStorage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -328,11 +334,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ActionReplayRecord.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ActionReplayRecord.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\ActionReplayRecord.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ActionReplayRecord.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ActionReplayRecord.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\ActionReplayRecord.cs",
               "RelativeToolTip": "Assets\\Scripts\\ActionReplayRecord.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -340,11 +346,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ReplayManager.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ReplayManager.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\ReplayManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ReplayManager.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ReplayManager.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\ReplayManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\ReplayManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -352,11 +358,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ActionReplayData.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ActionReplayData.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\ActionReplayData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ActionReplayData.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ActionReplayData.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\ActionReplayData.cs",
               "RelativeToolTip": "Assets\\Scripts\\ActionReplayData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -364,11 +370,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ReplayDataStorage.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ReplayDataStorage.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\ReplayDataStorage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ReplayDataStorage.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\ReplayDataStorage.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\ReplayDataStorage.cs",
               "RelativeToolTip": "Assets\\Scripts\\ReplayDataStorage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -376,11 +382,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "BacktoStart.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\BacktoStart.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\BacktoStart.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BacktoStart.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\BacktoStart.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\BacktoStart.cs",
               "RelativeToolTip": "Assets\\Scripts\\BacktoStart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -388,11 +394,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "MainMenuCC.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\MainMenuCC.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\MainMenuCC.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuCC.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\MainMenuCC.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\MainMenuCC.cs",
               "RelativeToolTip": "Assets\\Scripts\\MainMenuCC.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -400,11 +406,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "TutorialManager.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\TutorialManager.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\TutorialManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TutorialManager.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\TutorialManager.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\TutorialManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\TutorialManager.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -412,11 +418,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "FinishLine.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\FinishLine.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\FinishLine.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLine.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\FinishLine.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\FinishLine.cs",
               "RelativeToolTip": "Assets\\Scripts\\FinishLine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -424,11 +430,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Mode Selection.cs",
-              "DocumentMoniker": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\Mode Selection.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\Mode Selection.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Mode Selection.cs",
-              "ToolTip": "E:\\UnityProj\\Coegi Torque - May 22\\CoegiFull\\Assets\\Scripts\\Mode Selection.cs",
+              "ToolTip": "C:\\Users\\reign\\Desktop\\Git\\CoegiFull\\Assets\\Scripts\\Mode Selection.cs",
               "RelativeToolTip": "Assets\\Scripts\\Mode Selection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

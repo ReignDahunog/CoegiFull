@@ -32,6 +32,20 @@
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
+            "fullManagedTypeName": "CameraRecorder",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "CameraReplayer",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
             "fullManagedTypeName": "CarAudio",
             "moduleName": "",
             "usedInScenes": []
@@ -77,10 +91,20 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
             ]
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "FinalScoreDisplay",
+            "moduleName": "",
+            "usedInScenes": []
         },
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
@@ -102,6 +126,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -127,6 +154,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -180,6 +210,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -205,6 +238,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -218,10 +254,24 @@
             "usedInScenes": []
         },
         {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PersistBetweenScenes",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
             "managedAssemblyName": "",
             "nativeClass": "PhysicsManager",
             "fullManagedTypeName": "",
             "moduleName": "Physics",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PlayerCollisionHandler",
+            "moduleName": "",
             "usedInScenes": []
         },
         {
@@ -234,7 +284,21 @@
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
+            "fullManagedTypeName": "ReplayButtonHandler",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
             "fullManagedTypeName": "ReplayManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ReplayManager2",
             "moduleName": "",
             "usedInScenes": []
         },
@@ -256,6 +320,13 @@
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
             "fullManagedTypeName": "SceneLoader",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ScoreManager",
             "moduleName": "",
             "usedInScenes": []
         },
@@ -377,6 +448,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -426,6 +500,9 @@
                 "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Tmain.unity"
             ]
         },
@@ -438,6 +515,9 @@
                 "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Tmain.unity"
             ]
         },
@@ -454,6 +534,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -468,6 +551,9 @@
                 "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Tmain.unity"
             ]
         },
@@ -484,6 +570,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -498,6 +587,9 @@
                 "Assets/GameScene/CourseComplete.unity",
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Tmain.unity"
             ]
         },
@@ -514,6 +606,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -525,7 +620,11 @@
             "fullManagedTypeName": "UnityEngine.BoxCollider",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/GameScene/EasyGameplay.unity"
+                "Assets/GameScene/CourseComplete.unity",
+                "Assets/GameScene/EasyGameplay.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity"
             ]
         },
         {
@@ -541,6 +640,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -559,6 +661,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -577,6 +682,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -588,7 +696,11 @@
             "fullManagedTypeName": "UnityEngine.Collider",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/GameScene/EasyGameplay.unity"
+                "Assets/GameScene/CourseComplete.unity",
+                "Assets/GameScene/EasyGameplay.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity"
             ]
         },
         {
@@ -604,6 +716,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -622,6 +737,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -642,6 +760,8 @@
             "usedInScenes": [
                 "Assets/GameScene/EasyGameplay.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity"
             ]
@@ -659,6 +779,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -719,6 +842,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -737,6 +863,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -755,6 +884,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -766,7 +898,11 @@
             "fullManagedTypeName": "UnityEngine.Mesh",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/GameScene/EasyGameplay.unity"
+                "Assets/GameScene/CourseComplete.unity",
+                "Assets/GameScene/EasyGameplay.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity"
             ]
         },
         {
@@ -775,7 +911,10 @@
             "fullManagedTypeName": "UnityEngine.MeshCollider",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/GameScene/EasyGameplay.unity"
+                "Assets/GameScene/EasyGameplay.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity"
             ]
         },
         {
@@ -784,7 +923,11 @@
             "fullManagedTypeName": "UnityEngine.MeshFilter",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/GameScene/EasyGameplay.unity"
+                "Assets/GameScene/CourseComplete.unity",
+                "Assets/GameScene/EasyGameplay.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity"
             ]
         },
         {
@@ -793,7 +936,11 @@
             "fullManagedTypeName": "UnityEngine.MeshRenderer",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/GameScene/EasyGameplay.unity"
+                "Assets/GameScene/CourseComplete.unity",
+                "Assets/GameScene/EasyGameplay.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity"
             ]
         },
         {
@@ -809,6 +956,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -827,6 +977,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -852,6 +1005,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -863,7 +1019,11 @@
             "fullManagedTypeName": "UnityEngine.Renderer",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/GameScene/EasyGameplay.unity"
+                "Assets/GameScene/CourseComplete.unity",
+                "Assets/GameScene/EasyGameplay.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity"
             ]
         },
         {
@@ -886,6 +1046,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -897,7 +1060,11 @@
             "fullManagedTypeName": "UnityEngine.Rigidbody",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/GameScene/EasyGameplay.unity"
+                "Assets/GameScene/CourseComplete.unity",
+                "Assets/GameScene/EasyGameplay.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity"
             ]
         },
         {
@@ -913,6 +1080,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -931,6 +1101,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -949,6 +1122,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -967,6 +1143,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -985,6 +1164,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -1003,6 +1185,9 @@
                 "Assets/GameScene/Intermidiate.unity",
                 "Assets/GameScene/Loading.unity",
                 "Assets/GameScene/Main.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity",
                 "Assets/GameScene/Start.unity",
                 "Assets/GameScene/Tmain.unity",
                 "Assets/GameScene/Tutorial.unity"
@@ -1070,7 +1255,11 @@
             "fullManagedTypeName": "UnityEngine.WheelCollider",
             "moduleName": "Vehicles",
             "usedInScenes": [
-                "Assets/GameScene/EasyGameplay.unity"
+                "Assets/GameScene/CourseComplete.unity",
+                "Assets/GameScene/EasyGameplay.unity",
+                "Assets/GameScene/not that important scene/EasyGameplay2.unity",
+                "Assets/GameScene/not that important scene/EasyReplay.unity",
+                "Assets/GameScene/ReplayScene.unity"
             ]
         },
         {
