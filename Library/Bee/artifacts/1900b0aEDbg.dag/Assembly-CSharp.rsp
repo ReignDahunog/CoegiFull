@@ -129,6 +129,8 @@
 -define:TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/EasyRoads3D/lib/DelaunayER.dll"
+-r:"Assets/EasyRoads3D/lib/EasyRoads3Dv3.dll"
 -r:"E:/6000.0.25f1/Editor/Data/Managed/UnityEngine/UnityEditor.AccessibilityModule.dll"
 -r:"E:/6000.0.25f1/Editor/Data/Managed/UnityEngine/UnityEditor.AdaptivePerformanceModule.dll"
 -r:"E:/6000.0.25f1/Editor/Data/Managed/UnityEngine/UnityEditor.BuildProfileModule.dll"
@@ -370,6 +372,8 @@
 -r:"Library/PackageCache/com.unity.ext.nunit/net40/unity-custom/nunit.framework.dll"
 -r:"Library/PackageCache/com.unity.testtools.codecoverage/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"Library/PackageCache/com.unity.visualscripting/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/ALP8310_ControllerGlobal.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/ALP8310_ControllerGlobal.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.2D.Sprite.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Cinemachine.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Cinemachine.ref.dll"
@@ -421,6 +425,8 @@
 "Assets/Scripts/CarInput.cs"
 "Assets/Scripts/CarLoadingAnimation_.cs"
 "Assets/Scripts/CarSpeedometer.cs"
+"Assets/Scripts/DrivingCourseButtonHandler.cs"
+"Assets/Scripts/DrivingCourseTutorial.cs"
 "Assets/Scripts/EasyGameplay.cs"
 "Assets/Scripts/FinalScore.cs"
 "Assets/Scripts/FinishLine.cs"
@@ -444,6 +450,8 @@
 "Assets/Scripts/ScoreManager.cs"
 "Assets/Scripts/SoundManager.cs"
 "Assets/Scripts/Sounds.cs"
+"Assets/Scripts/SteeringCourseButtonHandler.cs"
+"Assets/Scripts/SteeringCourseTutorial.cs"
 "Assets/Scripts/SteeringHandler.cs"
 "Assets/Scripts/SwipeMenu.cs"
 "Assets/Scripts/TutorialManager.cs"

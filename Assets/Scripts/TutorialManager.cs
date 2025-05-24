@@ -6,6 +6,18 @@ public class DrivingTutorial : MonoBehaviour
 {
     public TextMeshProUGUI tutorialText;
     public GameObject finishLine;
+    public AudioSource audioSource;
+
+    // Audio clips for each step
+    public AudioClip welcomeClip;
+    public AudioClip wClip;
+    public AudioClip aClip;
+    public AudioClip dClip;
+    public AudioClip sClip;
+    public AudioClip brakeClip;
+    public AudioClip camClip;
+    public AudioClip lightClip;
+    public AudioClip finishClip;
 
     private bool pressedW = false;
     private bool pressedA = false;
@@ -35,57 +47,65 @@ public class DrivingTutorial : MonoBehaviour
         if (!pressedW && Input.GetKeyDown(KeyCode.W))
         {
             pressedW = true;
-            StartCoroutine(NextStep("Awesome! Now press A to steer left."));
+            StartCoroutine(NextStep("Awesome! Now press A to steer left.", aClip));
         }
         else if (pressedW && !pressedA && Input.GetKeyDown(KeyCode.A))
         {
             pressedA = true;
-            StartCoroutine(NextStep("Great! Press D to steer right."));
+            StartCoroutine(NextStep("Great! Press D to steer right.", dClip));
         }
         else if (pressedA && !pressedD && Input.GetKeyDown(KeyCode.D))
         {
             pressedD = true;
-            StartCoroutine(NextStep("Nice moves! Press S to reverse."));
+            StartCoroutine(NextStep("Nice moves! Press S to reverse.", sClip));
         }
         else if (pressedD && !pressedS && Input.GetKeyDown(KeyCode.S))
         {
             pressedS = true;
-            StartCoroutine(NextStep("Well done! Hit Space to brake."));
+            StartCoroutine(NextStep("Well done! Hit Space to brake.", brakeClip));
         }
         else if (pressedS && !hasBraked && Input.GetKeyDown(KeyCode.Space))
         {
             hasBraked = true;
-            StartCoroutine(NextStep("Cool! Now press C to switch cameras."));
+            StartCoroutine(NextStep("Cool! Now press C to switch cameras.", camClip));
         }
         else if (hasBraked && !hasChangedCam && Input.GetKeyDown(KeyCode.C))
         {
             hasChangedCam = true;
-            StartCoroutine(NextStep("Nice! Hit L to turn on the headlights."));
+            StartCoroutine(NextStep("Nice! Hit L to turn on the headlights.", lightClip));
         }
         else if (hasChangedCam && !hasTurnedOnLights && Input.GetKeyDown(KeyCode.L))
         {
             hasTurnedOnLights = true;
-            StartCoroutine(NextStep("You're all set! Drive to the finish line!"));
+            StartCoroutine(NextStep("You're all set! Drive to the finish line!", finishClip));
             finishLine.SetActive(true);
         }
     }
 
     IEnumerator BeginTutorial()
     {
-        yield return AnimateText("Welcome to the driving tutorial!");
+        yield return AnimateText("Welcome to the driving tutorial!", welcomeClip);
         yield return new WaitForSeconds(2f);
-        yield return AnimateText("Let's roll! Press W to move forward.");
+        yield return AnimateText("Let's roll! Press W to move forward.", wClip);
         tutorialStarted = true;
     }
 
-    IEnumerator NextStep(string message)
+    IEnumerator NextStep(string message, AudioClip clip)
     {
-        yield return AnimateText(message);
+        yield return AnimateText(message, clip);
     }
 
-    IEnumerator AnimateText(string message)
+    IEnumerator AnimateText(string message, AudioClip clip)
     {
         tutorialText.text = message;
+
+        // Play audio if available
+        if (audioSource != null && clip != null)
+        {
+            audioSource.Stop();
+            audioSource.clip = clip;
+            audioSource.Play();
+        }
 
         RectTransform rect = tutorialText.GetComponent<RectTransform>();
         Vector2 startPos = new Vector2(0, Screen.height);

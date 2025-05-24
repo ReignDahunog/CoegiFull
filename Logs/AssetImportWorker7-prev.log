@@ -1,0 +1,866 @@
+Using pre-set license
+Built from '6000.0/release' branch; Version is '6000.0.25f1 (4859ab7b5a49) revision 4741547'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 16293 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+E:\6000.0.25f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker7
+-projectPath
+E:/UnityProj/Coegi Torque - May 23/CoegiFull
+-logFile
+Logs/AssetImportWorker7.log
+-srvPort
+64866
+-job-worker-count
+11
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: E:/UnityProj/Coegi Torque - May 23/CoegiFull
+E:/UnityProj/Coegi Torque - May 23/CoegiFull
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [27032]  Target information:
+
+Player connection [27032]  * "[IP] 192.168.1.2 [Port] 0 [Flags] 2 [Guid] 1970319129 [EditorId] 1970319129 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-04KM3GD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [27032] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [27032] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 11
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 3.46 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.25f1 (4859ab7b5a49)
+[Subsystems] Discovering subsystems at path E:/6000.0.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/UnityProj/Coegi Torque - May 23/CoegiFull/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 Ti (ID=0x1b82)
+    Vendor:   NVIDIA
+    VRAM:     8059 MB
+    Driver:   32.0.15.7270
+Initialize mono
+Mono path[0] = 'E:/6000.0.25f1/Editor/Data/Managed'
+Mono path[1] = 'E:/6000.0.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'E:/6000.0.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56444
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/6000.0.25f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: E:/6000.0.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003700 seconds.
+- Loaded All Assemblies, in  0.427 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.300 seconds
+Domain Reload Profiling: 727ms
+	BeginReloadAssembly (196ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (142ms)
+		LoadAssemblies (196ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (137ms)
+			TypeCache.Refresh (136ms)
+				TypeCache.ScanAssembly (124ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (301ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (265ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (7ms)
+			ProcessInitializeOnLoadAttributes (165ms)
+			ProcessInitializeOnLoadMethodAttributes (65ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.994 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.13 ms, found 8 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Refreshing native plugins compatible for Editor in 1.91 ms, found 8 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.740 seconds
+Domain Reload Profiling: 1734ms
+	BeginReloadAssembly (438ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (488ms)
+		LoadAssemblies (457ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (195ms)
+			TypeCache.Refresh (147ms)
+				TypeCache.ScanAssembly (130ms)
+			BuildScriptInfoCaches (39ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (740ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (571ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (74ms)
+			ProcessInitializeOnLoadAttributes (438ms)
+			ProcessInitializeOnLoadMethodAttributes (47ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 3.43 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4314 unused Assets / (1.3 MB). Loaded Objects now: 5040.
+Memory consumption went from 135.7 MB to 134.4 MB.
+Total: 13.911100 ms (FindLiveObjects: 1.136700 ms CreateObjectMapping: 1.207800 ms MarkObjects: 9.209400 ms  DeleteObjects: 2.351800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 91145.144179 seconds.
+  path: Assets/(HDRP) NYC-Like City Buildings Set (PBR)/HDRPDefaultResources/DefaultSettingsVolumeProfile.asset
+  artifactKey: Guid(34f5bf25cb169ac4ea108a480895283b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/(HDRP) NYC-Like City Buildings Set (PBR)/HDRPDefaultResources/DefaultSettingsVolumeProfile.asset using Guid(34f5bf25cb169ac4ea108a480895283b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '956363361905a82ee8b0aff46413aec6') in 0.0086051 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 309.639895 seconds.
+  path: Assets/imaginary-city-i/source/Archive/asphalt_painted_white_7x7m.jpg
+  artifactKey: Guid(9614354d699a594469d3c4d342909360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/asphalt_painted_white_7x7m.jpg using Guid(9614354d699a594469d3c4d342909360) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a15c377f84e0cc5b31fa189dec7b3ff4') in 0.0512443 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/imaginary-city-i/source/Archive/flatRoof_10.jpg
+  artifactKey: Guid(85b5acd1e6b87a347b3ddd53669a39f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/flatRoof_10.jpg using Guid(85b5acd1e6b87a347b3ddd53669a39f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '395f061962d8ba9e3d85fc790dd1c9c9') in 0.0136094 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f001_t006_Office_008.jpg
+  artifactKey: Guid(bf81a9bfef21f4d4986037cb6cf3c3a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f001_t006_Office_008.jpg using Guid(bf81a9bfef21f4d4986037cb6cf3c3a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7ea839b132df4fcb20bb4d8c3c0d31e4') in 0.00545 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f001_t004_Mercantile_005.jpg
+  artifactKey: Guid(c4262a7b235d63c43a48f9e5922a31e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f001_t004_Mercantile_005.jpg using Guid(c4262a7b235d63c43a48f9e5922a31e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fc31ac668e54f4a3fcba972126699d9e') in 0.0039531 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/imaginary-city-i/source/Archive/flatRoof_9.jpg
+  artifactKey: Guid(c7ed755b9af12f44cba98b88d316c00f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/flatRoof_9.jpg using Guid(c7ed755b9af12f44cba98b88d316c00f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e8a0cc708eac2acc538db7c2dc8596b') in 0.0057812 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/imaginary-city-i/source/Archive/flatRoof_5.jpg
+  artifactKey: Guid(e823f310fe965464ca498de42e39fe79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/flatRoof_5.jpg using Guid(e823f310fe965464ca498de42e39fe79) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5c08ba01d3bb5b1586e8e6023d30dd0f') in 0.0069182 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/imaginary-city-i/source/Archive/flatRoof_1.jpg
+  artifactKey: Guid(106cd5bc6e96119449e18ac5d697de30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/flatRoof_1.jpg using Guid(106cd5bc6e96119449e18ac5d697de30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '195cec4d7ee0cecd0fb308f91b8dca28') in 0.0053696 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f001_t004_Mercantile_001.jpg
+  artifactKey: Guid(266502fe56e705748b7b42b35e5b4eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f001_t004_Mercantile_001.jpg using Guid(266502fe56e705748b7b42b35e5b4eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1e63badeaf8caf2214acf8401b19baf0') in 0.0038671 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/imaginary-city-i/source/Archive/flatRoof_27.jpg
+  artifactKey: Guid(fcebd67190acacf48b9684fd55e78f13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/flatRoof_27.jpg using Guid(fcebd67190acacf48b9684fd55e78f13) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c2059bbd2307b802ebff2e58ac0082f5') in 0.0060571 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f001_t003_Residential_013.jpg
+  artifactKey: Guid(d2eb0841318235e43934240fbd9c3960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f001_t003_Residential_013.jpg using Guid(d2eb0841318235e43934240fbd9c3960) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4983b9ac6a18cc009dca72f85595b52f') in 0.0042211 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/imaginary-city-i/source/Archive/flatRoof_33.jpg
+  artifactKey: Guid(ee85cc9d04fe85542822207f7385bb16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/flatRoof_33.jpg using Guid(ee85cc9d04fe85542822207f7385bb16) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '22748691f694c3ade940b38ec5ebb20c') in 0.0045536 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/imaginary-city-i/source/Archive/crosswalk_continental_white.jpg
+  artifactKey: Guid(26a7026586c8e8e4995cf4b8773f058a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/crosswalk_continental_white.jpg using Guid(26a7026586c8e8e4995cf4b8773f058a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cc9d0bbe45783b105442240c2133d3c8') in 0.0043365 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/imaginary-city-i/source/Archive/flatRoof_32.jpg
+  artifactKey: Guid(026a5e18522aef24ba5d2ed48ae2e7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/flatRoof_32.jpg using Guid(026a5e18522aef24ba5d2ed48ae2e7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7afc9df4c5d7d47b7600481bcc0645f1') in 0.00485 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/imaginary-city-i/source/Archive/flatRoof_37.jpg
+  artifactKey: Guid(e679a8ac08cfee940921da61df555be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/flatRoof_37.jpg using Guid(e679a8ac08cfee940921da61df555be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '214d674f30b45fc615aaf9a419dfbdd1') in 0.005847 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/imaginary-city-i/source/Archive/flatRoof_4.jpg
+  artifactKey: Guid(1f04812e7958e924c96a3995ad5bf5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/flatRoof_4.jpg using Guid(1f04812e7958e924c96a3995ad5bf5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '953b29e2704e8455f405b83a492a4df5') in 0.0070434 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f001_t005_Industry_000.jpg
+  artifactKey: Guid(fa7d44c125040924b9d6203c4f187119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f001_t005_Industry_000.jpg using Guid(fa7d44c125040924b9d6203c4f187119) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '73b04e6e6b9937efa6254dca79c6056e') in 0.00468 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/imaginary-city-i/source/Archive/flatRoof_36.jpg
+  artifactKey: Guid(faef9b5811c73764bbd360e433d8a28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/flatRoof_36.jpg using Guid(faef9b5811c73764bbd360e433d8a28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c0cfb98167124f00fe017aeb8880030d') in 0.0037784 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/imaginary-city-i/source/Archive/flatRoof_39.jpg
+  artifactKey: Guid(e54da603bcff9934c884ed4130c13450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/flatRoof_39.jpg using Guid(e54da603bcff9934c884ed4130c13450) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0d27919c1fc7d70104ec5427b63bc07a') in 0.0053512 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f001_t005_Residential_001.jpg
+  artifactKey: Guid(35c81188444d3c24394e8d138f3ebe03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f001_t005_Residential_001.jpg using Guid(35c81188444d3c24394e8d138f3ebe03) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4988ca7d2cbea194366ef52c0ea3b222') in 0.0042427 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/imaginary-city-i/source/Archive/flatRoof_20.jpg
+  artifactKey: Guid(47f951bf08ec5a145b24c0ebbe50fedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/flatRoof_20.jpg using Guid(47f951bf08ec5a145b24c0ebbe50fedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ef62126bf87b032b72eebd9ed14a5e54') in 0.0058472 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/imaginary-city-i/source/Archive/flatRoof_38.jpg
+  artifactKey: Guid(b33544fc009db42489986eb4d59b738b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/flatRoof_38.jpg using Guid(b33544fc009db42489986eb4d59b738b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd67b5d482b66d2e049b1044743c59ced') in 0.0051545 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/imaginary-city-i/source/Archive/flatRoof_25.jpg
+  artifactKey: Guid(76241e0e6f87f7b46b31e99b9617539c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/flatRoof_25.jpg using Guid(76241e0e6f87f7b46b31e99b9617539c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2d48ddfff73481b38356417eda4021ca') in 0.004964 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f001_t006_Mercantile_022.jpg
+  artifactKey: Guid(9d63a17813264a94d89ed9decd89b713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f001_t006_Mercantile_022.jpg using Guid(9d63a17813264a94d89ed9decd89b713) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1bd8d68ccbcc05e7685e397b52a20127') in 0.0035401 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/imaginary-city-i/source/Archive/flatRoof_17.jpg
+  artifactKey: Guid(47f323c86c64edd4f98914d2c76b68c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/flatRoof_17.jpg using Guid(47f323c86c64edd4f98914d2c76b68c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '49c425ed42f71bfba2e376f0f7c1e9df') in 0.0046255 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/imaginary-city-i/source/Archive/flatRoof_7.jpg
+  artifactKey: Guid(4bc8093dd7229584d98ae6246d0bb20f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/flatRoof_7.jpg using Guid(4bc8093dd7229584d98ae6246d0bb20f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '81ab90c9d00c07e17752a3f5abac0ee2') in 0.0058021 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f001_t003_Residential_010.jpg
+  artifactKey: Guid(cdfdb2a3ecf10f54c8b555fa51651eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f001_t003_Residential_010.jpg using Guid(cdfdb2a3ecf10f54c8b555fa51651eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e5f4388a87551c5a4ca08d2b15a6a40e') in 0.0038239 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/imaginary-city-i/source/Archive/flatRoof_14.jpg
+  artifactKey: Guid(22c68786ed80b144da520e3a238dc095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/flatRoof_14.jpg using Guid(22c68786ed80b144da520e3a238dc095) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d610399d423766d8ccfb7895c9c1014') in 0.0040089 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/imaginary-city-i/source/Archive/dirtmap_5.jpg
+  artifactKey: Guid(c2f346f61d7b7d6458be8380f3581ac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/dirtmap_5.jpg using Guid(c2f346f61d7b7d6458be8380f3581ac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f8623aad0037f383ab8c335ee2cc6736') in 0.0052198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f001_t003_Educational_000.jpg
+  artifactKey: Guid(1efedf2dd4ff3c741b044be88565e2aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f001_t003_Educational_000.jpg using Guid(1efedf2dd4ff3c741b044be88565e2aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a85dbb2a7e3f0f63397e5ac5bb88ee2e') in 0.0043088 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/imaginary-city-i/source/Archive/dirtmap_3.jpg
+  artifactKey: Guid(5ad73e0473542b94fabfe4924e2bc196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/dirtmap_3.jpg using Guid(5ad73e0473542b94fabfe4924e2bc196) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aabeca1738bea4d4894a5779cbd7749d') in 0.0055247 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.937847 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f001_t006_Residential_034.jpg
+  artifactKey: Guid(be652f4f531fe8044887af429b73bca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f001_t006_Residential_034.jpg using Guid(be652f4f531fe8044887af429b73bca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1e917eb4267ca57c369e80d07a940b20') in 0.006329 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f002_t004_Mercantile_002.jpg
+  artifactKey: Guid(608173437b53ba64ea56402b25318c28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f002_t004_Mercantile_002.jpg using Guid(608173437b53ba64ea56402b25318c28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '61218f0dfa63a293fc1fb91e796ac344') in 0.0055387 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f002_t006_Industry_003.jpg
+  artifactKey: Guid(2733f3c94f53aa245973282a707d981a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f002_t006_Industry_003.jpg using Guid(2733f3c94f53aa245973282a707d981a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c4140d84969ab0d22292c181b4ff0d07') in 0.0052901 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f001_t006_Service_013.jpg
+  artifactKey: Guid(805e35135b41b0e48a8a4c2767202ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f001_t006_Service_013.jpg using Guid(805e35135b41b0e48a8a4c2767202ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0232954397364465e2438d109fa3cf34') in 0.0067185 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f002_t001_Industry_000.jpg
+  artifactKey: Guid(643e6d5989e41d74aaf0ebd5b400d58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f002_t001_Industry_000.jpg using Guid(643e6d5989e41d74aaf0ebd5b400d58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a036ab7f2b1ba8452def5af2899b01da') in 0.0057555 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f002_t006_Mercantile_001.jpg
+  artifactKey: Guid(5e8dd8bbc900838439c2b262a108c500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f002_t006_Mercantile_001.jpg using Guid(5e8dd8bbc900838439c2b262a108c500) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5a23d1f7d45baca856df4b42c6b3172d') in 0.0059239 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f001_t019_Educational_000.jpg
+  artifactKey: Guid(8c98c47938b5c2844989b91846c965c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f001_t019_Educational_000.jpg using Guid(8c98c47938b5c2844989b91846c965c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '14c07ca097adb9f9deeefc7fc4c63c81') in 0.0052925 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f002_t006_Mercantile_014.jpg
+  artifactKey: Guid(920e8f97292a0fe42be5b597c57526d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f002_t006_Mercantile_014.jpg using Guid(920e8f97292a0fe42be5b597c57526d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a5680c7e9fbc95006add18056ad978d1') in 0.0055112 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.411632 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f002_t006_Residential_006.jpg
+  artifactKey: Guid(2bd32ca135cba444d83a12f8d779bec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f002_t006_Residential_006.jpg using Guid(2bd32ca135cba444d83a12f8d779bec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'adb41d2373475331e9a99c9cfa60c16a') in 0.0047961 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/imaginary-city-i/source/Archive/lanes_4_stripes_white_14x14m.jpg
+  artifactKey: Guid(f0add39e81d45464d9f4f3173d90b248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/lanes_4_stripes_white_14x14m.jpg using Guid(f0add39e81d45464d9f4f3173d90b248) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '532816296683a433a9984331395264e1') in 0.0062315 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/imaginary-city-i/source/Archive/green_09.jpg
+  artifactKey: Guid(faae9b5636d737d49846a516013af6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/green_09.jpg using Guid(faae9b5636d737d49846a516013af6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '02a8af60fd740e0cc401ed6a7fde92d6') in 0.0039603 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/imaginary-city-i/source/Archive/lanes_4_stop_arrows_all_14x14m.jpg
+  artifactKey: Guid(4bb263ce052014a4bb921f03a70fe76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/lanes_4_stop_arrows_all_14x14m.jpg using Guid(4bb263ce052014a4bb921f03a70fe76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70e5581ab80fada9d4504e300082c6f0') in 0.0042739 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/imaginary-city-i/source/Archive/lanes_4_stop_14x14m.jpg
+  artifactKey: Guid(402e376627f189b418350f16e02e514f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/lanes_4_stop_14x14m.jpg using Guid(402e376627f189b418350f16e02e514f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3b2a54447456cbc0fee1a9485fc0486f') in 0.0059417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/imaginary-city-i/source/Archive/g_f003_t008_Industry_000.jpg
+  artifactKey: Guid(a684899da95b68f4795868953b2ee937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/g_f003_t008_Industry_000.jpg using Guid(a684899da95b68f4795868953b2ee937) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5f99ea3ad28a6e51836af032c88de9ea') in 0.0047228 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/imaginary-city-i/source/Archive/green_03.jpg
+  artifactKey: Guid(cb42e7b1db85dac4794cefd378d84fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/green_03.jpg using Guid(cb42e7b1db85dac4794cefd378d84fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ad70109feda71f4029914022a7cdc8dd') in 0.0043707 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/imaginary-city-i/source/Archive/green_11.jpg
+  artifactKey: Guid(6a73c503e30dbb84ea6071283103fb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/green_11.jpg using Guid(6a73c503e30dbb84ea6071283103fb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5007d0830e56bec0c785da670c6fa942') in 0.0058288 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.080177 seconds.
+  path: Assets/imaginary-city-i/source/Archive/parking_01.jpg
+  artifactKey: Guid(2f683f2f350da6a4eb78e2d7eccfd812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/parking_01.jpg using Guid(2f683f2f350da6a4eb78e2d7eccfd812) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '10b24369e9e3ccc2ba24943b888b0ec6') in 0.0063659 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/imaginary-city-i/source/Archive/parking_02.jpg
+  artifactKey: Guid(754dc9c9a1934454c8fa510f3d606a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/parking_02.jpg using Guid(754dc9c9a1934454c8fa510f3d606a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e6fb7014478c7c7cf482f26c36edb73f') in 0.0067294 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f002_t002_Residential_010.jpg
+  artifactKey: Guid(487e520f118f57f4b8a5df745f63efff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f002_t002_Residential_010.jpg using Guid(487e520f118f57f4b8a5df745f63efff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0a97e6950360c7843eda2d856a7ca6fd') in 0.0072168 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/imaginary-city-i/source/Archive/pavement_01_2x2m.jpg
+  artifactKey: Guid(1f86e7511dd993541a0e756e3ff3febb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/pavement_01_2x2m.jpg using Guid(1f86e7511dd993541a0e756e3ff3febb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '25b87cfc12ab559a3c9776f6446c0735') in 0.0059515 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f001_t002_Storage_000.jpg
+  artifactKey: Guid(f21efb73ca851f747a39bdb028a29695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f001_t002_Storage_000.jpg using Guid(f21efb73ca851f747a39bdb028a29695) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '57c581e0913ed4a642a1f3767342555a') in 0.0036679 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f003_t001_Assembly_000.jpg
+  artifactKey: Guid(3e1a9a59b74aa2c4b8202c9651b3e584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f003_t001_Assembly_000.jpg using Guid(3e1a9a59b74aa2c4b8202c9651b3e584) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'de3f3d3929e3b265c761780a10d77865') in 0.0035044 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/imaginary-city-i/source/Archive/parking_03.jpg
+  artifactKey: Guid(c35c3205347df9549a091baa0afc1b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/parking_03.jpg using Guid(c35c3205347df9549a091baa0afc1b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd291eba2b7c3831bc750596904666cd6') in 0.0037574 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f002_t002_Residential_001.jpg
+  artifactKey: Guid(2509600efd8639847b29e8b45a2650cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f002_t002_Residential_001.jpg using Guid(2509600efd8639847b29e8b45a2650cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7158e2fef1b0972144193888632ae6af') in 0.0045998 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f002_t003_Mercantile_001.jpg
+  artifactKey: Guid(809cd8ac07ac02e488ee5e8f93a67349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f002_t003_Mercantile_001.jpg using Guid(809cd8ac07ac02e488ee5e8f93a67349) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8a391f9d1ca3c7f97bd7c4776059fa1e') in 0.0043735 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f003_t003_Residential_002.jpg
+  artifactKey: Guid(d2b0d10d9908d0f4fa65ce2f9ee6ed96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f003_t003_Residential_002.jpg using Guid(d2b0d10d9908d0f4fa65ce2f9ee6ed96) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c52c845863fe31b10ec2600502869420') in 0.0042574 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/imaginary-city-i/source/Archive/parking_05.jpg
+  artifactKey: Guid(76fab9456ff7c5941aba39358f4a7de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/parking_05.jpg using Guid(76fab9456ff7c5941aba39358f4a7de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fb882f31f212c12141b3c93aa581f769') in 0.0048187 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f002_t002_Residential_006.jpg
+  artifactKey: Guid(0bd2522a6822c564d95d7e743d6d4e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f002_t002_Residential_006.jpg using Guid(0bd2522a6822c564d95d7e743d6d4e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fcecb406fecf6d92882bb61786e4073c') in 0.0046035 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/imaginary-city-i/source/Archive/parking_04.jpg
+  artifactKey: Guid(b8fff4d7f4f1b4440a266055803f1867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/parking_04.jpg using Guid(b8fff4d7f4f1b4440a266055803f1867) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a768bc23d89883150e82c1180f82204a') in 0.0033834 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f002_t002_Residential_000.jpg
+  artifactKey: Guid(f4cb071a60203a348a12b79bf5f4b22a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f002_t002_Residential_000.jpg using Guid(f4cb071a60203a348a12b79bf5f4b22a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2dcad1c72ae9102f6490db4e3e90bb9a') in 0.0036531 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.622341 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f003_t004_Industry_001.jpg
+  artifactKey: Guid(c4ededbf1fadc014d9344a23aaf9d69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f003_t004_Industry_001.jpg using Guid(c4ededbf1fadc014d9344a23aaf9d69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f529a6a8f2a1cf4807b97d01b03cbc3') in 0.0056245 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f005_t005_Industry_000.jpg
+  artifactKey: Guid(8e3660ef18d02b245ba34da2b533ec8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f005_t005_Industry_000.jpg using Guid(8e3660ef18d02b245ba34da2b533ec8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '603b28bd7ab2df7e734237c05a1bd137') in 0.0046153 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f004_t003_Storage_000.jpg
+  artifactKey: Guid(b47696e15a587ab4582333ef1290e4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f004_t003_Storage_000.jpg using Guid(b47696e15a587ab4582333ef1290e4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1f7aedbc122e0fd098793a5625540dd2') in 0.0066165 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f004_t006_Educational_000.jpg
+  artifactKey: Guid(6504552c870af1747a52d6187ae9836d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f004_t006_Educational_000.jpg using Guid(6504552c870af1747a52d6187ae9836d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '767ffb6ea12cc7f2336507ca336ed1ca') in 0.0056751 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f004_t006_Educational_001.jpg
+  artifactKey: Guid(baacd3028d0a43a47bccf0113066f27c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f004_t006_Educational_001.jpg using Guid(baacd3028d0a43a47bccf0113066f27c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '77bf87fd0799ce211d7ea096ede2e42c') in 0.0064493 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f003_t004_Other_000.jpg
+  artifactKey: Guid(36f61464524e7b24a9598c987f763454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f003_t004_Other_000.jpg using Guid(36f61464524e7b24a9598c987f763454) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '108d45e29ba8cf94d49d8007aba31c88') in 0.0042592 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f006_t006_Residential_000.jpg
+  artifactKey: Guid(335cd6d3fe1a6634c8a88827cab647eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f006_t006_Residential_000.jpg using Guid(335cd6d3fe1a6634c8a88827cab647eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9042119e420511706c5621f5c5aa7889') in 0.0056701 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f004_t005_Office_000.jpg
+  artifactKey: Guid(075cd158a5ff7ce41bf2adae6cecf2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f004_t005_Office_000.jpg using Guid(075cd158a5ff7ce41bf2adae6cecf2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e29465a1c87ef5b9637aa02a4d7f300f') in 0.004784 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f006_t007_Residential_000.jpg
+  artifactKey: Guid(c568ece7c791e20499489b34bf19e4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f006_t007_Residential_000.jpg using Guid(c568ece7c791e20499489b34bf19e4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a39180f3b910e68ea3d38040565760c') in 0.0088333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f004_t006_Industry_001.jpg
+  artifactKey: Guid(18b3c1f09be84394ab912d3803635b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f004_t006_Industry_001.jpg using Guid(18b3c1f09be84394ab912d3803635b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '902bbf9c7b00e2b284dfc7ab080eec2c') in 0.0091928 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f004_t003_Service_000.jpg
+  artifactKey: Guid(6f3d7e77381f9f04db77919449dd33a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f004_t003_Service_000.jpg using Guid(6f3d7e77381f9f04db77919449dd33a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5b769ec4720e4ff19920a76fb89a1ca4') in 0.0049569 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f006_t004_Educational_000.jpg
+  artifactKey: Guid(35031b2c3757a37449243a39bb8469ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f006_t004_Educational_000.jpg using Guid(35031b2c3757a37449243a39bb8469ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5b19bc327d5bf752e1e4a14c3d868a8c') in 0.0036764 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f008_t008_Residential_000.jpg
+  artifactKey: Guid(062fd1c25f30cb44198d1724747b8903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f008_t008_Residential_000.jpg using Guid(062fd1c25f30cb44198d1724747b8903) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf3d636739dcf04e4f898154fd5ef045') in 0.0080662 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f009_t008_Other_000.jpg
+  artifactKey: Guid(54db068dcc7524d429f22c4d45de8e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f009_t008_Other_000.jpg using Guid(54db068dcc7524d429f22c4d45de8e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '270941019eaaa8c63470411cec9ccca6') in 0.0052587 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f008_t020_Public_000.jpg
+  artifactKey: Guid(85c3747565cc0ab47996a695c3a6d1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f008_t020_Public_000.jpg using Guid(85c3747565cc0ab47996a695c3a6d1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'da9366edd45412d667b84180f7f68ae4') in 0.006139 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f015_t007_Office_000.jpg
+  artifactKey: Guid(9285a0b03742bb9449137504f5df52e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f015_t007_Office_000.jpg using Guid(9285a0b03742bb9449137504f5df52e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f3ca61ab2eb4086cdb220027ea08fa94') in 0.0058291 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.146968 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f024_t003_Office_000.jpg
+  artifactKey: Guid(84011355ffcde794588e5944c318e683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f024_t003_Office_000.jpg using Guid(84011355ffcde794588e5944c318e683) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '81813fe027daaad7ab055b8f8acc3aab') in 0.0097582 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f038_t006_Residential_000.jpg
+  artifactKey: Guid(6b111e25414b065448e213dd6c06e71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f038_t006_Residential_000.jpg using Guid(6b111e25414b065448e213dd6c06e71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '326eec117da790cadc26123944fe306b') in 0.008358 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f038_t006_Residential_001.jpg
+  artifactKey: Guid(d19dd4213cceb15479dafb4184cf429d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f038_t006_Residential_001.jpg using Guid(d19dd4213cceb15479dafb4184cf429d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '113e33966a12b9f4648e9fd6aca3cf47') in 0.0060401 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f047_t016_Office_000.jpg
+  artifactKey: Guid(5f168a90b36d2da4daa0e7e62f6334c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f047_t016_Office_000.jpg using Guid(5f168a90b36d2da4daa0e7e62f6334c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '45c985c8258cf6043f9aa7b86382d7e2') in 0.0038423 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f029_t012_Residential_000.jpg
+  artifactKey: Guid(32e21122b59ff8541a9c0a9daced76e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f029_t012_Residential_000.jpg using Guid(32e21122b59ff8541a9c0a9daced76e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '27ad227b85be3d864da0d455f1c946a5') in 0.0047249 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/imaginary-city-i/source/Archive/u_f040_t005_Residential_000.jpg
+  artifactKey: Guid(10efb31445c98004299492c64de07ed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imaginary-city-i/source/Archive/u_f040_t005_Residential_000.jpg using Guid(10efb31445c98004299492c64de07ed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e7cb6b0830c766ec6c3fdbd0a2eb988') in 0.0040266 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

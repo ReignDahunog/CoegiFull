@@ -61,6 +61,7 @@
     <Analyzer Include="E:\6000.0.25f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\DrivingCourseButtonHandler.cs" />
     <Compile Include="Assets\Scripts\ReplayStorage.cs" />
     <Compile Include="Assets\SteeringWheel\Logitech SDK\Script Sample\LogitechGKey.cs" />
     <Compile Include="Assets\Scripts\QuitGame.cs" />
@@ -75,6 +76,7 @@
     <Compile Include="Assets\SteeringWheel\Steering.cs" />
     <Compile Include="Assets\Scripts\ScoreManager.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\SteeringCourseButtonHandler.cs" />
     <Compile Include="Assets\Scripts\UIController.cs" />
     <Compile Include="Assets\Scripts\FinalScore.cs" />
     <Compile Include="Assets\Scripts\Mode Selection.cs" />
@@ -97,6 +99,7 @@
     <Compile Include="Assets\Scripts\Sounds.cs" />
     <Compile Include="Assets\SteeringWheel\Logitech SDK\Script Sample\LogitechLCD.cs" />
     <Compile Include="Assets\Scripts\UIReplayPanel.cs" />
+    <Compile Include="Assets\Scripts\DrivingCourseTutorial.cs" />
     <Compile Include="Assets\SteeringWheel\Logitech SDK\Script Sample\LogitechSteeringWheel.cs" />
     <Compile Include="Assets\Scripts\SteeringHandler.cs" />
     <Compile Include="Assets\Scripts\CarInput.cs" />
@@ -115,38 +118,60 @@
     <Compile Include="Assets\Scripts\CarAudio.cs" />
     <Compile Include="Assets\Scripts\LightingManager.cs" />
     <Compile Include="Assets\Scripts\ActionReplayData.cs" />
+    <Compile Include="Assets\Scripts\SteeringCourseTutorial.cs" />
     <Compile Include="Assets\SteeringWheel\Logitech SDK\Script Sample\LogitechArxControl.cs" />
     <Compile Include="Assets\Scripts\NewMonoBehaviourScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\EasyRoads3D\lib\DelaunayER.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\SteeringWheel\Logitech SDK\LogitechLcdEnginesWrapper.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
+    <None Include="Assets\ALP_Assets\Poplar Tree FREE\Shaders\Billboard_Instanced.shader" />
+    <None Include="Assets\EasyRoads3D\SRP Support Packages\_Readme.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\EasyRoads3D\Resources\custom prefabs\_custom prefabs.txt" />
+    <None Include="Assets\EasyRoads3D\prefab meshes\_custom prefabs.txt" />
+    <None Include="Assets\ALP_Assets\Poplar Tree FREE\Shaders\ALP Billboard Cross Wind.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\SteeringWheel\Logitech SDK\LogitechSteeringWheelEnginesWrapper.dll" />
+    <None Include="Assets\EasyRoads3D\Quick Start.txt" />
     <None Include="Assets\SteeringWheel\Logitech SDK\LogitechGkeyEnginesWrapper.dll" />
+    <None Include="Assets\road(2)\source\road\road\READ ME.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\EasyRoads3D\lib\EasyRoads3Dv3.dll" />
+    <None Include="Assets\EasyRoads3D\_readme .txt" />
     <None Include="Assets\TextMesh Pro\Shaders\SDFFunctions.hlsl" />
+    <None Include="Assets\ALP_Assets\Poplar Tree FREE\Shaders\Billboard.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\EasyRoads3D\shaders\ER Surface.shader" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\ALP_Assets\Poplar Tree FREE\Shaders\ALP Surface Detail.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\EasyRoads3D\shaders\ER Road.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\EasyRoads3D\shaders\ER Road Transparency.shader" />
+    <None Include="Assets\ALP_Assets\Poplar Tree FREE\Shaders\ALP Water Gestner Waves.shader" />
     <None Include="Assets\SteeringWheel\Logitech SDK\LogitechGArxControlEnginesWrapper.dll" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\ALP_Assets\Poplar Tree FREE\Shaders\ALP Surface Detail Wind.shader" />
+    <None Include="Assets\EasyRoads3D\Resources\dynamic prefabs\dynamic prefabs.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Assets\SteeringWheel\Logitech SDK\LogitechLedEnginesWrapper.dll" />
+    <None Include="Assets\ALP_Assets\Poplar Tree FREE\Shaders\ALP Cutout Translucency Wind.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\EasyRoads3D\prefab sources\_custom prefabs.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+    <None Include="Assets\EasyRoads3D\_Release Notes.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -613,12 +638,20 @@
       <HintPath>E:\6000.0.25f1\Editor\Data\Managed\UnityEngine\UnityEditor.XRModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="DelaunayER">
+      <HintPath>Assets\EasyRoads3D\lib\DelaunayER.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library\PackageCache\com.unity.ext.nunit\net40\unity-custom\nunit.framework.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
       <HintPath>Library\PackageCache\com.unity.testtools.codecoverage\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="EasyRoads3Dv3">
+      <HintPath>Assets\EasyRoads3D\lib\EasyRoads3Dv3.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
@@ -1185,12 +1218,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.Mathematics">
       <HintPath>Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
@@ -1247,6 +1280,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="ALP8310_ControllerGlobal.Editor.csproj">
+      <Project>{DCB1A823-0FAD-8FD4-4BC4-73AD0ADE7588}</Project>
+      <Name>ALP8310_ControllerGlobal.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="ALP8310_ControllerGlobal.csproj">
+      <Project>{F4E103F7-ABAC-5EE4-B575-9C3EBFDBB8F5}</Project>
+      <Name>ALP8310_ControllerGlobal</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
