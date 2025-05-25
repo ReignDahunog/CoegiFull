@@ -1,16 +1,25 @@
 Using pre-set license
 Built from '6000.0/release' branch; Version is '6000.0.25f1 (4859ab7b5a49) revision 4741547'; Using compiler version '193933523'; Build Type 'Release'
+<<<<<<< HEAD
 OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'en' Physical Memory: 16305 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
 C:\Program Files\Unity\Hub\Editor\6000.0.25f1\Editor\Unity.exe
+=======
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 16293 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+E:\6000.0.25f1\Editor\Unity.exe
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker2
 -projectPath
+<<<<<<< HEAD
 C:/Users/jamir/UnityHub/CoegiFull
 -logFile
 Logs/AssetImportWorker2.log
@@ -18,12 +27,26 @@ Logs/AssetImportWorker2.log
 52551
 -job-worker-count
 5
+=======
+E:/UnityProj/Coegi Torque - May 23/CoegiFull
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+64866
+-job-worker-count
+11
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 -background-job-worker-count
 8
 -asset-garbage-collectors
 1
+<<<<<<< HEAD
 Successfully changed project path to: C:/Users/jamir/UnityHub/CoegiFull
 C:/Users/jamir/UnityHub/CoegiFull
+=======
+Successfully changed project path to: E:/UnityProj/Coegi Torque - May 23/CoegiFull
+E:/UnityProj/Coegi Torque - May 23/CoegiFull
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -59,6 +82,7 @@ C:/Users/jamir/UnityHub/CoegiFull
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< HEAD
 Player connection [21452]  Target information:
 
 Player connection [21452]  * "[IP] 192.168.254.105 [Port] 0 [Flags] 2 [Guid] 2916270729 [EditorId] 2916270729 [Version] 1048832 [Id] WindowsEditor(7,Jamir) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
@@ -66,6 +90,15 @@ Player connection [21452]  * "[IP] 192.168.254.105 [Port] 0 [Flags] 2 [Guid] 291
 Player connection [21452] Host joined multi-casting on [225.0.0.222:54997]...
 Player connection [21452] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 5
+=======
+Player connection [14628]  Target information:
+
+Player connection [14628]  * "[IP] 192.168.1.2 [Port] 0 [Flags] 2 [Guid] 951975112 [EditorId] 951975112 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-04KM3GD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [14628] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [14628] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 11
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
 Library Redirect Path: Library/
@@ -75,6 +108,7 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 36.66 ms, found 8 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.25f1 (4859ab7b5a49)
@@ -102,11 +136,43 @@ Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  0.603 seconds
 Domain Reload Profiling: 1361ms
 	BeginReloadAssembly (243ms)
+=======
+Refreshing native plugins compatible for Editor in 3.44 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.25f1 (4859ab7b5a49)
+[Subsystems] Discovering subsystems at path E:/6000.0.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/UnityProj/Coegi Torque - May 23/CoegiFull/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 Ti (ID=0x1b82)
+    Vendor:   NVIDIA
+    VRAM:     8059 MB
+    Driver:   32.0.15.7270
+Initialize mono
+Mono path[0] = 'E:/6000.0.25f1/Editor/Data/Managed'
+Mono path[1] = 'E:/6000.0.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'E:/6000.0.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56700
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/6000.0.25f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: E:/6000.0.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002698 seconds.
+- Loaded All Assemblies, in  0.403 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.322 seconds
+Domain Reload Profiling: 725ms
+	BeginReloadAssembly (167ms)
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
+<<<<<<< HEAD
 	RebuildCommonClasses (96ms)
 	RebuildNativeTypeToScriptingClass (26ms)
 	initialDomainReloadingComplete (97ms)
@@ -129,6 +195,30 @@ Domain Reload Profiling: 1361ms
 			ProcessInitializeOnLoadAttributes (347ms)
 			ProcessInitializeOnLoadMethodAttributes (126ms)
 			AfterProcessingInitializeOnLoad (5ms)
+=======
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (145ms)
+		LoadAssemblies (167ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (142ms)
+			TypeCache.Refresh (141ms)
+				TypeCache.ScanAssembly (130ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (323ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (295ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (7ms)
+			ProcessInitializeOnLoadAttributes (189ms)
+			ProcessInitializeOnLoadMethodAttributes (70ms)
+			AfterProcessingInitializeOnLoad (3ms)
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (0ms)
@@ -139,17 +229,28 @@ Import Worker Mode flag is 0x00
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Begin MonoManager ReloadAssembly
+<<<<<<< HEAD
 - Loaded All Assemblies, in  2.227 seconds
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 Refreshing native plugins compatible for Editor in 6.83 ms, found 8 plugins.
 Native extension for WindowsStandalone target not found
+=======
+- Loaded All Assemblies, in  0.970 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.17 ms, found 8 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Package Manager log level set to [2]
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 4.86 ms, found 8 plugins.
 Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  1.339 seconds
@@ -448,3 +549,52 @@ Received Import Request.
 Start importing Assets/Scripts/CarInput.cs using Guid(eb3fa42080d1595449ce3c95ef42e01b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '421d440b081af9a0a436b85894273ae2') in 0.0058623 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
+=======
+Refreshing native plugins compatible for Editor in 2.06 ms, found 8 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.744 seconds
+Domain Reload Profiling: 1714ms
+	BeginReloadAssembly (463ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (65ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (436ms)
+		LoadAssemblies (414ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (184ms)
+			TypeCache.Refresh (137ms)
+				TypeCache.ScanAssembly (125ms)
+			BuildScriptInfoCaches (38ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (745ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (574ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (83ms)
+			ProcessInitializeOnLoadAttributes (434ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 3.79 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4314 unused Assets / (1.3 MB). Loaded Objects now: 5037.
+Memory consumption went from 135.4 MB to 134.1 MB.
+Total: 12.712800 ms (FindLiveObjects: 1.100100 ms CreateObjectMapping: 0.368500 ms MarkObjects: 9.133300 ms  DeleteObjects: 2.098300 ms)
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e

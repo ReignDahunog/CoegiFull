@@ -1,29 +1,46 @@
 Using pre-set license
 Built from '6000.0/release' branch; Version is '6000.0.25f1 (4859ab7b5a49) revision 4741547'; Using compiler version '193933523'; Build Type 'Release'
+<<<<<<< HEAD
 OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'en' Physical Memory: 16305 MB
+=======
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 16293 MB
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\6000.0.25f1\Editor\Unity.exe
+E:\6000.0.25f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
+<<<<<<< HEAD
 C:/Users/jamir/UnityHub/CoegiFull
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
 52551
+=======
+E:/UnityProj/Coegi Torque - May 23/CoegiFull
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64866
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 -job-worker-count
-5
+11
 -background-job-worker-count
 8
 -asset-garbage-collectors
 1
+<<<<<<< HEAD
 Successfully changed project path to: C:/Users/jamir/UnityHub/CoegiFull
 C:/Users/jamir/UnityHub/CoegiFull
+=======
+Successfully changed project path to: E:/UnityProj/Coegi Torque - May 23/CoegiFull
+E:/UnityProj/Coegi Torque - May 23/CoegiFull
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -59,6 +76,7 @@ C:/Users/jamir/UnityHub/CoegiFull
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< HEAD
 Player connection [27072]  Target information:
 
 Player connection [27072]  * "[IP] 192.168.254.105 [Port] 0 [Flags] 2 [Guid] 3400864073 [EditorId] 3400864073 [Version] 1048832 [Id] WindowsEditor(7,Jamir) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
@@ -66,6 +84,15 @@ Player connection [27072]  * "[IP] 192.168.254.105 [Port] 0 [Flags] 2 [Guid] 340
 Player connection [27072] Host joined multi-casting on [225.0.0.222:54997]...
 Player connection [27072] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 5
+=======
+Player connection [18868]  Target information:
+
+Player connection [18868]  * "[IP] 192.168.1.2 [Port] 0 [Flags] 2 [Guid] 158921326 [EditorId] 158921326 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-04KM3GD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [18868] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [18868] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 11
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
 Library Redirect Path: Library/
@@ -75,6 +102,7 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 12.41 ms, found 8 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.25f1 (4859ab7b5a49)
@@ -97,16 +125,48 @@ Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Registered in 0.004776 seconds.
 - Loaded All Assemblies, in  0.664 seconds
+=======
+Refreshing native plugins compatible for Editor in 4.00 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.25f1 (4859ab7b5a49)
+[Subsystems] Discovering subsystems at path E:/6000.0.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/UnityProj/Coegi Torque - May 23/CoegiFull/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 Ti (ID=0x1b82)
+    Vendor:   NVIDIA
+    VRAM:     8059 MB
+    Driver:   32.0.15.7270
+Initialize mono
+Mono path[0] = 'E:/6000.0.25f1/Editor/Data/Managed'
+Mono path[1] = 'E:/6000.0.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'E:/6000.0.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56644
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/6000.0.25f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: E:/6000.0.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003132 seconds.
+- Loaded All Assemblies, in  0.377 seconds
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Finished resetting the current domain, in  0.764 seconds
 Domain Reload Profiling: 1425ms
 	BeginReloadAssembly (230ms)
+=======
+- Finished resetting the current domain, in  0.278 seconds
+Domain Reload Profiling: 655ms
+	BeginReloadAssembly (168ms)
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
+<<<<<<< HEAD
 	RebuildCommonClasses (74ms)
 	RebuildNativeTypeToScriptingClass (19ms)
 	initialDomainReloadingComplete (77ms)
@@ -129,6 +189,30 @@ Domain Reload Profiling: 1425ms
 			ProcessInitializeOnLoadAttributes (477ms)
 			ProcessInitializeOnLoadMethodAttributes (162ms)
 			AfterProcessingInitializeOnLoad (7ms)
+=======
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (129ms)
+		LoadAssemblies (169ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (124ms)
+			TypeCache.Refresh (122ms)
+				TypeCache.ScanAssembly (110ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (279ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (254ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (6ms)
+			ProcessInitializeOnLoadAttributes (158ms)
+			ProcessInitializeOnLoadMethodAttributes (63ms)
+			AfterProcessingInitializeOnLoad (3ms)
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (0ms)
@@ -139,17 +223,26 @@ Import Worker Mode flag is 0x00
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Begin MonoManager ReloadAssembly
+<<<<<<< HEAD
 - Loaded All Assemblies, in  2.365 seconds
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 Refreshing native plugins compatible for Editor in 3.90 ms, found 8 plugins.
+=======
+- Loaded All Assemblies, in  1.167 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.88 ms, found 8 plugins.
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 Native extension for WindowsStandalone target not found
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Package Manager log level set to [2]
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 4.38 ms, found 8 plugins.
 Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  1.499 seconds
@@ -36292,18 +36385,85 @@ Received Import Request.
   path: Assets/2014-toyota-corolla-e180-eu-with-interior/textures/car_fabric_grey_Normal.png
   artifactKey: Guid(f7e0a8233fde9ed48b9b002cf2cb95f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/2014-toyota-corolla-e180-eu-with-interior/textures/car_fabric_grey_Normal.png using Guid(f7e0a8233fde9ed48b9b002cf2cb95f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '442c88a71f7b5e93de1b46c3c57a3a8e') in 0.1022472 seconds
+=======
+Refreshing native plugins compatible for Editor in 1.99 ms, found 8 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.772 seconds
+Domain Reload Profiling: 1938ms
+	BeginReloadAssembly (401ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (697ms)
+		LoadAssemblies (643ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (196ms)
+			TypeCache.Refresh (148ms)
+				TypeCache.ScanAssembly (132ms)
+			BuildScriptInfoCaches (38ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (772ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (607ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (77ms)
+			ProcessInitializeOnLoadAttributes (471ms)
+			ProcessInitializeOnLoadMethodAttributes (47ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 3.69 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4314 unused Assets / (1.1 MB). Loaded Objects now: 5037.
+Memory consumption went from 131.4 MB to 130.3 MB.
+Total: 8.102900 ms (FindLiveObjects: 0.560800 ms CreateObjectMapping: 0.549300 ms MarkObjects: 5.742200 ms  DeleteObjects: 1.248000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 89106.727009 seconds.
+  path: Assets/EasyRoads3D/textures/roads/road_N.png
+  artifactKey: Guid(3bb3d8b07d371eb40a0cb6c7b33f0837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures/roads/road_N.png using Guid(3bb3d8b07d371eb40a0cb6c7b33f0837) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b7f1056106668ac790f58f31f5aba2c9') in 0.0748661 seconds
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
   Time since last request: 0.000031 seconds.
   path: Assets/2014-toyota-corolla-e180-eu-with-interior/textures/car_plastic_grainy_grey_Normal.png
   artifactKey: Guid(f74dfceb6b11f5b4e95ff0511d50ceb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/2014-toyota-corolla-e180-eu-with-interior/textures/car_plastic_grainy_grey_Normal.png using Guid(f74dfceb6b11f5b4e95ff0511d50ceb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '69f8c86060c63a16d98e874bdf10fb1e') in 0.0304813 seconds
+=======
+  Time since last request: 0.000015 seconds.
+  path: Assets/EasyRoads3D/textures/roads
+  artifactKey: Guid(4589a01502edc6645941b6f2c613f576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures/roads using Guid(4589a01502edc6645941b6f2c613f576) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c3b6c35df5ccf3993aae45e379549cd1') in 0.0004904 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/EasyRoads3D/textures/roads/dirtRoad_A.tga
+  artifactKey: Guid(59e73003f413d9c43be9da5db7734e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures/roads/dirtRoad_A.tga using Guid(59e73003f413d9c43be9da5db7734e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0197cc51d393898c5468b0b08c8e0e2c') in 0.0467278 seconds
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
   Time since last request: 0.000025 seconds.
   path: Assets/2014-toyota-corolla-e180-eu-with-interior/source/Corolla_E180.fbx
   artifactKey: Guid(509b547ac8dc3df43a328e9897e9acdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -38726,6 +38886,54 @@ Memory consumption went from 127.6 MB to 126.3 MB.
 Total: 13.574400 ms (FindLiveObjects: 0.740000 ms CreateObjectMapping: 0.649900 ms MarkObjects: 8.910900 ms  DeleteObjects: 3.271700 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+=======
+  Time since last request: 0.425692 seconds.
+  path: Assets/EasyRoads3D/textures/editor/locked.png
+  artifactKey: Guid(8fb7d6b5f8b40f34e8048f47afa20f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures/editor/locked.png using Guid(8fb7d6b5f8b40f34e8048f47afa20f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bbfdc21e49432c10169950291f4ac687') in 0.3808133 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/EasyRoads3D/textures/editor/m_info.png
+  artifactKey: Guid(a734eccac0ad8bc49950dd4fbee58611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures/editor/m_info.png using Guid(a734eccac0ad8bc49950dd4fbee58611) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a6160a582292a6135d10315d8b3ac1ef') in 0.0076016 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/EasyRoads3D/textures/editor/unlocked.png
+  artifactKey: Guid(eb319a63188c2d44bacc8572c8a2111a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures/editor/unlocked.png using Guid(eb319a63188c2d44bacc8572c8a2111a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '83f94c4864e4988d90b7d05fe06f7745') in 0.0054497 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/EasyRoads3D/textures/editor/m_roads.png
+  artifactKey: Guid(32e963efb91d19147842f8bd95d6ac56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures/editor/m_roads.png using Guid(32e963efb91d19147842f8bd95d6ac56) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '814e1c546b5d29e9750cfca9eccd8ff3') in 0.0064552 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/EasyRoads3D/textures/editor/m_settings.png
+  artifactKey: Guid(b2f9adc22d0fa0647880b18b89bf0872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures/editor/m_settings.png using Guid(b2f9adc22d0fa0647880b18b89bf0872) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '597b8271648402b91047749d34b0ae42') in 0.0070679 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/EasyRoads3D/textures/editor/m_scene.png
+  artifactKey: Guid(34aed1010b525bf4c9cfd7da35361a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures/editor/m_scene.png using Guid(34aed1010b525bf4c9cfd7da35361a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ff9878cde32166980a9f8fff874f4cb') in 0.0073078 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
 Process exiting

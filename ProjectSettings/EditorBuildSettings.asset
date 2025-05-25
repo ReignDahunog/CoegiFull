@@ -44,6 +44,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GameScene/not that important scene/EasyReplay.unity
     guid: 6783177d8a0dd50419c6de2e49c4c18a
+  - enabled: 1
+    path: Assets/GameScene/DrivingCourse.unity
+    guid: 4787284d17ed6364a864df5e969efd42
+  - enabled: 1
+    path: Assets/GameScene/SteeringCourse.unity
+    guid: 83038ac2c3c8fd143ae72a003d595daf
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
   m_UseUCBPForAssetBundles: 0

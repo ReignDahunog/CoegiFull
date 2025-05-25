@@ -10,7 +10,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 3452161a009f7854da3d5d8150393d43, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1600
+      value: 550
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3452161a009f7854da3d5d8150393d43, type: 3}
       propertyPath: m_LocalScale.y
@@ -22,19 +22,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3452161a009f7854da3d5d8150393d43, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -60.1
+      value: 789.6
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3452161a009f7854da3d5d8150393d43, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7.29
+      value: 9.33
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3452161a009f7854da3d5d8150393d43, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 506.37
+      value: 43.6
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3452161a009f7854da3d5d8150393d43, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3452161a009f7854da3d5d8150393d43, type: 3}
       propertyPath: m_LocalRotation.x
@@ -42,11 +42,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3452161a009f7854da3d5d8150393d43, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3452161a009f7854da3d5d8150393d43, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3452161a009f7854da3d5d8150393d43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -54,7 +54,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3452161a009f7854da3d5d8150393d43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3452161a009f7854da3d5d8150393d43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -63,6 +63,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3452161a009f7854da3d5d8150393d43, type: 3}
       propertyPath: m_Name
       value: finish line
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3452161a009f7854da3d5d8150393d43, type: 3}
+      propertyPath: m_TagString
+      value: Corolla_E180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -99,8 +103,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.031896673, y: 0.006737757, z: 0.034924924}
-  m_Center: {x: 0.037190937, y: -0.009225501, z: -0.000091552734}
+  m_Size: {x: 0.031896673, y: 0.006737757, z: 0.03515721}
+  m_Center: {x: 0.037190937, y: -0.009225501, z: -0.00020769595}
 --- !u!114 &1581580000634095570
 MonoBehaviour:
   m_ObjectHideFlags: 0

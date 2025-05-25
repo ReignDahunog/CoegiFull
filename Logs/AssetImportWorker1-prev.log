@@ -1,29 +1,46 @@
 Using pre-set license
 Built from '6000.0/release' branch; Version is '6000.0.25f1 (4859ab7b5a49) revision 4741547'; Using compiler version '193933523'; Build Type 'Release'
+<<<<<<< HEAD
 OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'en' Physical Memory: 16305 MB
+=======
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 16293 MB
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\6000.0.25f1\Editor\Unity.exe
+E:\6000.0.25f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker1
 -projectPath
+<<<<<<< HEAD
 C:/Users/jamir/UnityHub/CoegiFull
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
 52551
+=======
+E:/UnityProj/Coegi Torque - May 23/CoegiFull
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+64866
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 -job-worker-count
-5
+11
 -background-job-worker-count
 8
 -asset-garbage-collectors
 1
+<<<<<<< HEAD
 Successfully changed project path to: C:/Users/jamir/UnityHub/CoegiFull
 C:/Users/jamir/UnityHub/CoegiFull
+=======
+Successfully changed project path to: E:/UnityProj/Coegi Torque - May 23/CoegiFull
+E:/UnityProj/Coegi Torque - May 23/CoegiFull
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -59,6 +76,7 @@ C:/Users/jamir/UnityHub/CoegiFull
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< HEAD
 Player connection [3880]  Target information:
 
 Player connection [3880]  * "[IP] 192.168.254.105 [Port] 0 [Flags] 2 [Guid] 210556025 [EditorId] 210556025 [Version] 1048832 [Id] WindowsEditor(7,Jamir) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
@@ -66,6 +84,15 @@ Player connection [3880]  * "[IP] 192.168.254.105 [Port] 0 [Flags] 2 [Guid] 2105
 Player connection [3880] Host joined multi-casting on [225.0.0.222:54997]...
 Player connection [3880] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 5
+=======
+Player connection [19264]  Target information:
+
+Player connection [19264]  * "[IP] 192.168.1.2 [Port] 0 [Flags] 2 [Guid] 1856072654 [EditorId] 1856072654 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-04KM3GD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [19264] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [19264] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 11
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
 Library Redirect Path: Library/
@@ -75,6 +102,7 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 5.96 ms, found 8 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.25f1 (4859ab7b5a49)
@@ -97,16 +125,48 @@ Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Registered in 0.005013 seconds.
 - Loaded All Assemblies, in  0.661 seconds
+=======
+Refreshing native plugins compatible for Editor in 3.39 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.25f1 (4859ab7b5a49)
+[Subsystems] Discovering subsystems at path E:/6000.0.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/UnityProj/Coegi Torque - May 23/CoegiFull/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 Ti (ID=0x1b82)
+    Vendor:   NVIDIA
+    VRAM:     8059 MB
+    Driver:   32.0.15.7270
+Initialize mono
+Mono path[0] = 'E:/6000.0.25f1/Editor/Data/Managed'
+Mono path[1] = 'E:/6000.0.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'E:/6000.0.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56884
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/6000.0.25f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: E:/6000.0.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003217 seconds.
+- Loaded All Assemblies, in  0.376 seconds
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Finished resetting the current domain, in  0.768 seconds
 Domain Reload Profiling: 1426ms
 	BeginReloadAssembly (230ms)
+=======
+- Finished resetting the current domain, in  0.281 seconds
+Domain Reload Profiling: 657ms
+	BeginReloadAssembly (166ms)
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
+<<<<<<< HEAD
 	RebuildCommonClasses (73ms)
 	RebuildNativeTypeToScriptingClass (20ms)
 	initialDomainReloadingComplete (77ms)
@@ -129,6 +189,30 @@ Domain Reload Profiling: 1426ms
 			ProcessInitializeOnLoadAttributes (470ms)
 			ProcessInitializeOnLoadMethodAttributes (170ms)
 			AfterProcessingInitializeOnLoad (7ms)
+=======
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (128ms)
+		LoadAssemblies (167ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (123ms)
+			TypeCache.Refresh (122ms)
+				TypeCache.ScanAssembly (110ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (282ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (256ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (6ms)
+			ProcessInitializeOnLoadAttributes (160ms)
+			ProcessInitializeOnLoadMethodAttributes (63ms)
+			AfterProcessingInitializeOnLoad (3ms)
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (0ms)
@@ -139,17 +223,26 @@ Import Worker Mode flag is 0x00
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Begin MonoManager ReloadAssembly
+<<<<<<< HEAD
 - Loaded All Assemblies, in  2.376 seconds
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 Refreshing native plugins compatible for Editor in 3.10 ms, found 8 plugins.
+=======
+- Loaded All Assemblies, in  1.160 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.72 ms, found 8 plugins.
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 Native extension for WindowsStandalone target not found
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Package Manager log level set to [2]
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 3.87 ms, found 8 plugins.
 Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  1.501 seconds
@@ -43492,5 +43585,124 @@ Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 4286 unused Assets / (1.4 MB). Loaded Objects now: 4948.
 Memory consumption went from 129.2 MB to 127.8 MB.
 Total: 15.221700 ms (FindLiveObjects: 0.945500 ms CreateObjectMapping: 0.840800 ms MarkObjects: 9.522100 ms  DeleteObjects: 3.911600 ms)
+=======
+Refreshing native plugins compatible for Editor in 1.98 ms, found 8 plugins.
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.766 seconds
+Domain Reload Profiling: 1926ms
+	BeginReloadAssembly (395ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (698ms)
+		LoadAssemblies (647ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (195ms)
+			TypeCache.Refresh (146ms)
+				TypeCache.ScanAssembly (130ms)
+			BuildScriptInfoCaches (39ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (766ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (596ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (84ms)
+			ProcessInitializeOnLoadAttributes (452ms)
+			ProcessInitializeOnLoadMethodAttributes (48ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 3.33 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4314 unused Assets / (1.0 MB). Loaded Objects now: 5037.
+Memory consumption went from 131.5 MB to 130.6 MB.
+Total: 7.521900 ms (FindLiveObjects: 0.584400 ms CreateObjectMapping: 0.232700 ms MarkObjects: 5.635600 ms  DeleteObjects: 1.065200 ms)
 
-Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 89106.726467 seconds.
+  path: Assets/EasyRoads3D/textures/roads/dirtRoad_N.tga
+  artifactKey: Guid(204662711dce8904e8cbca6412eff8e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures/roads/dirtRoad_N.tga using Guid(204662711dce8904e8cbca6412eff8e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd4d0372a20f108d582e9a0bcfa4ef6e3') in 0.0678567 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/EasyRoads3D/textures
+  artifactKey: Guid(c3a402d6ac607764fa576fc3b82fbd5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures using Guid(c3a402d6ac607764fa576fc3b82fbd5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e04fa8d78b8f7ad06d30017c96423701') in 0.0005123 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/EasyRoads3D/textures/roads/road2Lane_A.tga
+  artifactKey: Guid(8ac8c5ecc0022ee42aa79d9031e5b7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures/roads/road2Lane_A.tga using Guid(8ac8c5ecc0022ee42aa79d9031e5b7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd19411f6293eb1035cc3c5948abaaec9') in 0.0061682 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/EasyRoads3D/textures/roads/default_M_S_AO.tga
+  artifactKey: Guid(27079350f949bda4b9fdbabca066dc61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures/roads/default_M_S_AO.tga using Guid(27079350f949bda4b9fdbabca066dc61) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8c0925c9c03b8b6d282b709802df59b5') in 0.0044215 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.469288 seconds.
+  path: Assets/EasyRoads3D/textures/editor/m_build.png
+  artifactKey: Guid(881f73f964cf5104abc91a5f657615a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures/editor/m_build.png using Guid(881f73f964cf5104abc91a5f657615a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c5b4f80735e93ad6d5d73f713cdf2964') in 0.3802317 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/EasyRoads3D/textures/editor/m_road.png
+  artifactKey: Guid(46e81e5d2c8b2144582558b65e45db86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures/editor/m_road.png using Guid(46e81e5d2c8b2144582558b65e45db86) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a932c822379decc4d638471a080bafd0') in 0.0074279 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/EasyRoads3D/textures/editor/m_prefabs.png
+  artifactKey: Guid(ffc15be4bded7b34f9f406cde082a4a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures/editor/m_prefabs.png using Guid(ffc15be4bded7b34f9f406cde082a4a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5fd17d042d2442dd57c1d3e3f49d99bf') in 0.0098764 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/EasyRoads3D/textures/editor/m_so.png
+  artifactKey: Guid(8583bfb2058e94a48801d7212430d8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures/editor/m_so.png using Guid(8583bfb2058e94a48801d7212430d8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3a945c8dd724199c324bdca79241e5ac') in 0.0062629 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/EasyRoads3D/textures/editor/m_header.png
+  artifactKey: Guid(16ef664a0f7023c4a94fa58f50bf2899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyRoads3D/textures/editor/m_header.png using Guid(16ef664a0f7023c4a94fa58f50bf2899) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e9f501a9054a40cba4cc1d159ffdd13') in 0.0065243 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

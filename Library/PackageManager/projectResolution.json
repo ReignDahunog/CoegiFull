@@ -1,16 +1,29 @@
 {
   "context": {
+<<<<<<< HEAD
     "projectPath": "C:/Users/jamir/UnityHub/CoegiFull/Packages",
     "unityVersion": "6000.0.25f1"
   },
   "inputs": [
     "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Packages\\manifest.json",
     "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Packages\\packages-lock.json"
+=======
+    "projectPath": "E:/UnityProj/Coegi Torque - May 23/CoegiFull/Packages",
+    "unityVersion": "6000.0.25f1"
+  },
+  "inputs": [
+    "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Packages\\manifest.json",
+    "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Packages\\packages-lock.json"
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   ],
   "outputs": {
     "com.unity.2d.sprite@1.0.0": {
       "name": "com.unity.2d.sprite",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.2d.sprite",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.2d.sprite",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "0e70656ef5df5c7161c8cfc6f24ab0dde0dc637e",
       "editorCompatibility": "2019.2.0a1",
       "version": "1.0.0",
@@ -18,7 +31,11 @@
     },
     "com.unity.cinemachine@3.1.3": {
       "name": "com.unity.cinemachine",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.cinemachine",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.cinemachine",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "624f919d8cdd376712eda21b43abcb0330c023e2",
       "editorCompatibility": "2022.3.0a1",
       "version": "3.1.3",
@@ -26,7 +43,11 @@
     },
     "com.unity.collab-proxy@2.5.2": {
       "name": "com.unity.collab-proxy",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.collab-proxy",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.collab-proxy",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "da7e55b87e08569f31766e7cabc37bc033c9c7f9",
       "editorCompatibility": "2020.3.48f1",
       "version": "2.5.2",
@@ -34,14 +55,22 @@
     },
     "com.unity.feature.development@1.0.2": {
       "name": "com.unity.feature.development",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.feature.development",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.feature.development",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "c770b6a36a30949b030c5ec02d835f771b975cbb",
       "version": "1.0.2",
       "source": "builtin"
     },
     "com.unity.inputsystem@1.11.2": {
       "name": "com.unity.inputsystem",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.inputsystem",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.inputsystem",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "3c4a97c3950fef77960981e0fe90613de6e512ee",
       "editorCompatibility": "2019.4.0a1",
       "version": "1.11.2",
@@ -49,7 +78,11 @@
     },
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.multiplayer.center",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.multiplayer.center",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "f502d8ac613fa076192423e73892fbd89eb4049b",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
@@ -57,7 +90,11 @@
     },
     "com.unity.timeline@1.8.7": {
       "name": "com.unity.timeline",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.timeline",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.timeline",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "c58b4ee65782ad38338e29f7ee67787cb6998f04",
       "editorCompatibility": "2019.3.0a1",
       "version": "1.8.7",
@@ -65,7 +102,11 @@
     },
     "com.unity.ugui@2.0.0": {
       "name": "com.unity.ugui",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.ugui",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.ugui",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "306ebe9b8f890844da2089c9827a12c9a3167c92",
       "editorCompatibility": "2019.2.0a1",
       "version": "2.0.0",
@@ -73,7 +114,11 @@
     },
     "com.unity.visualscripting@1.9.4": {
       "name": "com.unity.visualscripting",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.visualscripting",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.visualscripting",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "0920df93f9574f857a55af27bd38fdd9230a3f51",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.9.4",
@@ -81,211 +126,351 @@
     },
     "com.unity.modules.accessibility@1.0.0": {
       "name": "com.unity.modules.accessibility",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.accessibility",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.accessibility",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.ai@1.0.0": {
       "name": "com.unity.modules.ai",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.ai",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.ai",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.androidjni@1.0.0": {
       "name": "com.unity.modules.androidjni",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.androidjni",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.androidjni",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.animation@1.0.0": {
       "name": "com.unity.modules.animation",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.animation",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.animation",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.assetbundle@1.0.0": {
       "name": "com.unity.modules.assetbundle",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.assetbundle",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.assetbundle",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.audio@1.0.0": {
       "name": "com.unity.modules.audio",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.audio",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.audio",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.cloth@1.0.0": {
       "name": "com.unity.modules.cloth",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.cloth",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.cloth",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.director@1.0.0": {
       "name": "com.unity.modules.director",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.director",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.director",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.imageconversion@1.0.0": {
       "name": "com.unity.modules.imageconversion",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.imageconversion",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.imageconversion",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.imgui@1.0.0": {
       "name": "com.unity.modules.imgui",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.imgui",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.imgui",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.jsonserialize@1.0.0": {
       "name": "com.unity.modules.jsonserialize",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.particlesystem@1.0.0": {
       "name": "com.unity.modules.particlesystem",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.particlesystem",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.particlesystem",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.physics@1.0.0": {
       "name": "com.unity.modules.physics",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.physics",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.physics",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.physics2d@1.0.0": {
       "name": "com.unity.modules.physics2d",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.physics2d",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.physics2d",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.screencapture@1.0.0": {
       "name": "com.unity.modules.screencapture",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.screencapture",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.screencapture",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.terrain@1.0.0": {
       "name": "com.unity.modules.terrain",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.terrain",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.terrain",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.terrainphysics@1.0.0": {
       "name": "com.unity.modules.terrainphysics",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.tilemap@1.0.0": {
       "name": "com.unity.modules.tilemap",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.tilemap",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.tilemap",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.ui@1.0.0": {
       "name": "com.unity.modules.ui",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.ui",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.ui",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.uielements@1.0.0": {
       "name": "com.unity.modules.uielements",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.uielements",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.uielements",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.umbra@1.0.0": {
       "name": "com.unity.modules.umbra",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.umbra",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.umbra",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unityanalytics@1.0.0": {
       "name": "com.unity.modules.unityanalytics",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequest@1.0.0": {
       "name": "com.unity.modules.unitywebrequest",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
       "name": "com.unity.modules.unitywebrequestassetbundle",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestaudio@1.0.0": {
       "name": "com.unity.modules.unitywebrequestaudio",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequesttexture@1.0.0": {
       "name": "com.unity.modules.unitywebrequesttexture",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestwww@1.0.0": {
       "name": "com.unity.modules.unitywebrequestwww",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.vehicles@1.0.0": {
       "name": "com.unity.modules.vehicles",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.vehicles",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.vehicles",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.video@1.0.0": {
       "name": "com.unity.modules.video",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.video",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.video",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.vr@1.0.0": {
       "name": "com.unity.modules.vr",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.vr",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.vr",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.wind@1.0.0": {
       "name": "com.unity.modules.wind",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.wind",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.wind",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.xr@1.0.0": {
       "name": "com.unity.modules.xr",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.xr",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.xr",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.subsystems@1.0.0": {
       "name": "com.unity.modules.subsystems",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.subsystems",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.subsystems",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.hierarchycore@1.0.0": {
       "name": "com.unity.modules.hierarchycore",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.ide.visualstudio@2.0.22": {
       "name": "com.unity.ide.visualstudio",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.ide.visualstudio",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.ide.visualstudio",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
       "editorCompatibility": "2019.4.25f1",
       "version": "2.0.22",
@@ -293,7 +478,11 @@
     },
     "com.unity.ide.rider@3.0.31": {
       "name": "com.unity.ide.rider",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.ide.rider",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.ide.rider",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "7921be93db40ec070fcb01ed82d1c3df1bbdddcd",
       "editorCompatibility": "2019.2.6f1",
       "version": "3.0.31",
@@ -301,7 +490,11 @@
     },
     "com.unity.editorcoroutines@1.0.0": {
       "name": "com.unity.editorcoroutines",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.editorcoroutines",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.editorcoroutines",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "7d48783e7b8cfcee5f8ef9ba787ed0d9dad4ebca",
       "editorCompatibility": "2018.1.0a1",
       "version": "1.0.0",
@@ -309,7 +502,11 @@
     },
     "com.unity.performance.profile-analyzer@1.2.2": {
       "name": "com.unity.performance.profile-analyzer",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.performance.profile-analyzer",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.performance.profile-analyzer",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "fe7acfd2717a98ded6ddc33be6b2ebe4459a2add",
       "editorCompatibility": "2020.3.0a1",
       "version": "1.2.2",
@@ -317,7 +514,11 @@
     },
     "com.unity.test-framework@1.4.5": {
       "name": "com.unity.test-framework",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.test-framework",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.test-framework",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "0a21eb82d95cd331643a1e0ce4e8e9a5f18954c8",
       "editorCompatibility": "2019.4.0a10",
       "version": "1.4.5",
@@ -325,7 +526,11 @@
     },
     "com.unity.testtools.codecoverage@1.2.6": {
       "name": "com.unity.testtools.codecoverage",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.testtools.codecoverage",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.testtools.codecoverage",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "205a02cbcb39584f20b51c49b853047aceb3a3a7",
       "editorCompatibility": "2019.3.0a1",
       "version": "1.2.6",
@@ -333,7 +538,11 @@
     },
     "com.unity.splines@2.6.1": {
       "name": "com.unity.splines",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.splines",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.splines",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "930eaf55e68be9f5d58f63035b2a96d9c3c3e695",
       "editorCompatibility": "2022.3.0a1",
       "version": "2.6.1",
@@ -341,7 +550,11 @@
     },
     "com.unity.settings-manager@2.0.1": {
       "name": "com.unity.settings-manager",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.settings-manager",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.settings-manager",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "56a930affa1e4462d3595b5c19a1c2a4bf2015d2",
       "editorCompatibility": "2018.4.0a1",
       "version": "2.0.1",
@@ -349,7 +562,11 @@
     },
     "com.unity.ext.nunit@2.0.5": {
       "name": "com.unity.ext.nunit",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.ext.nunit",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.ext.nunit",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.5",
@@ -357,7 +574,11 @@
     },
     "com.unity.mathematics@1.3.2": {
       "name": "com.unity.mathematics",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Users\\jamir\\UnityHub\\CoegiFull\\Library\\PackageCache\\com.unity.mathematics",
+=======
+      "resolvedPath": "E:\\UnityProj\\Coegi Torque - May 23\\CoegiFull\\Library\\PackageCache\\com.unity.mathematics",
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
       "fingerprint": "8017b507cc74bf0a1dd14b18aa860569f807314d",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.3.2",

@@ -1,25 +1,44 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
+<<<<<<< HEAD
     m_FilePath: C:/Users/jamir/UnityHub/CoegiFull/Packages/manifest.json
+=======
+    m_FilePath: E:/UnityProj/Coegi Torque - May 23/CoegiFull/Packages/manifest.json
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 638817363470700402
     m_Hash: 2121112706
   m_LockFileStatus:
     m_FilePath: C:/Users/jamir/UnityHub/CoegiFull/Packages/packages-lock.json
+=======
+      ticks: 638836081909780215
+    m_Hash: 2121112706
+  m_LockFileStatus:
+    m_FilePath: E:/UnityProj/Coegi Torque - May 23/CoegiFull/Packages/packages-lock.json
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 638817363470700402
+=======
+      ticks: 638836081909780215
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
     m_Hash: 1451519360
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
+<<<<<<< HEAD
 m_ProjectPath: C:/Users/jamir/UnityHub/CoegiFull/Packages
+=======
+m_ProjectPath: E:/UnityProj/Coegi Torque - May 23/CoegiFull/Packages
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
 m_EditorVersion: 6000.0.25f1 (4859ab7b5a49)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
@@ -27,7 +46,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.2d.sprite
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.2d.sprite
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -97,7 +120,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.1.3
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.cinemachine
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.cinemachine
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.cinemachine
   name: com.unity.cinemachine
   displayName: Cinemachine
@@ -313,7 +340,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.5.2
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.collab-proxy
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.collab-proxy
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -478,7 +509,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.2
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.feature.development
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.feature.development
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.feature.development
   name: com.unity.feature.development
   displayName: Engineering
@@ -579,7 +614,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.11.2
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.inputsystem
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.inputsystem
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -738,7 +777,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.multiplayer.center
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.multiplayer.center
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -828,7 +871,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.7
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.timeline
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.timeline
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1014,7 +1061,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.ugui
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.ugui
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1106,7 +1157,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.4
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.visualscripting
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.visualscripting
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1154,11 +1209,13 @@ m_ResolvedPackages:
     - 1.9.4
     - 1.9.5
     - 1.9.6
+    - 1.9.7
     compatible:
     - 1.9.4
     - 1.9.5
     - 1.9.6
-    recommended: 1.9.6
+    - 1.9.7
+    recommended: 1.9.7
     deprecated:
     - 1.8.0-pre.1
   dependencies:
@@ -1221,7 +1278,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.accessibility
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.accessibility
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.accessibility
   name: com.unity.modules.accessibility
   displayName: Accessibility
@@ -1288,7 +1349,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.ai
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.ai
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1355,7 +1420,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.androidjni
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.androidjni
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1421,7 +1490,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.animation
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.animation
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1488,7 +1561,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.assetbundle
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.assetbundle
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1555,7 +1632,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.audio
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.audio
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1622,7 +1703,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.cloth
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.cloth
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1693,7 +1778,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.director
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.director
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1768,7 +1857,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.imageconversion
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.imageconversion
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -1835,7 +1928,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.imgui
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.imgui
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -1902,7 +1999,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.jsonserialize
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.jsonserialize
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -1969,7 +2070,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.particlesystem
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.particlesystem
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2036,7 +2141,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.physics
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.physics
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -2103,7 +2212,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.physics2d
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.physics2d
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2170,7 +2283,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.screencapture
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.screencapture
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2241,7 +2358,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.terrain
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.terrain
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2308,7 +2429,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.terrainphysics
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.terrainphysics
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2383,7 +2508,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.tilemap
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.tilemap
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2453,7 +2582,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.ui
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.ui
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2520,7 +2653,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.uielements
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.uielements
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2603,7 +2740,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.umbra
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.umbra
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2670,7 +2811,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.unityanalytics
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.unityanalytics
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2744,7 +2889,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.unitywebrequest
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.unitywebrequest
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2811,7 +2960,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2886,7 +3039,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.unitywebrequestaudio
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.unitywebrequestaudio
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2961,7 +3118,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.unitywebrequesttexture
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.unitywebrequesttexture
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -3036,7 +3197,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.unitywebrequestwww
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.unitywebrequestwww
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -3127,7 +3292,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.vehicles
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.vehicles
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -3198,7 +3367,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.video
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.video
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -3277,7 +3450,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.vr
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.vr
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -3358,7 +3535,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.wind
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.wind
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -3425,7 +3606,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.xr
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.xr
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3504,7 +3689,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.subsystems
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.subsystems
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3575,7 +3764,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.modules.hierarchycore
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.modules.hierarchycore
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.modules.hierarchycore
   name: com.unity.modules.hierarchycore
   displayName: Hierarchy Core
@@ -3642,7 +3835,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.22
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.ide.visualstudio
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.ide.visualstudio
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -3750,7 +3947,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.0.31
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.ide.rider
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.ide.rider
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -3873,7 +4074,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.editorcoroutines
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.editorcoroutines
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.editorcoroutines
   name: com.unity.editorcoroutines
   displayName: Editor Coroutines
@@ -3950,7 +4155,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.2
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.performance.profile-analyzer
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.performance.profile-analyzer
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.performance.profile-analyzer
   name: com.unity.performance.profile-analyzer
   displayName: Profile Analyzer
@@ -4036,7 +4245,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.4.5
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.test-framework
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.test-framework
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -4201,7 +4414,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.6
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.testtools.codecoverage
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.testtools.codecoverage
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.testtools.codecoverage
   name: com.unity.testtools.codecoverage
   displayName: Code Coverage
@@ -4324,7 +4541,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.6.1
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.splines
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.splines
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.splines
   name: com.unity.splines
   displayName: Splines
@@ -4447,7 +4668,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.1
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.settings-manager
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.settings-manager
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
@@ -4523,7 +4748,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.ext.nunit
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.ext.nunit
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4602,7 +4831,11 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.2
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\jamir\UnityHub\CoegiFull\Library\PackageCache\com.unity.mathematics
+=======
+  resolvedPath: E:\UnityProj\Coegi Torque - May 23\CoegiFull\Library\PackageCache\com.unity.mathematics
+>>>>>>> fb77c72ca1838c5457dfe80126dd08e1f4813d6e
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
