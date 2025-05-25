@@ -5,6 +5,7 @@ using UnityEngine;
 [RequireComponent(typeof(CarInput))]
 [RequireComponent(typeof(Rigidbody))]
 [RequireComponent(typeof(LightingManager))]
+[RequireComponent(typeof(Rigidbody))]
 public class NewMonoBehaviourScript : MonoBehaviour
 {
     public CarInput im;
